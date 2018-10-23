@@ -1,0 +1,1131 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"event",
+				"event_desc"
+			],
+			[
+				"pr",
+				"process_state_data"
+			],
+			[
+				"displa",
+				"display_screen"
+			],
+			[
+				"map",
+				"map_obj"
+			],
+			[
+				"curr",
+				"curr_y"
+			],
+			[
+				"Cu",
+				"curr_x"
+			],
+			[
+				"cur",
+				"curr_y"
+			],
+			[
+				"cu",
+				"curr_x"
+			],
+			[
+				"next",
+				"next_higher"
+			],
+			[
+				"next_",
+				"next_higher_hex"
+			],
+			[
+				"hex",
+				"hex_direction"
+			],
+			[
+				"hex_dire",
+				"hex_directions"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"Hex",
+				"HexGrid"
+			],
+			[
+				"CONT",
+				"content_type"
+			],
+			[
+				"jour",
+				"journal_key"
+			],
+			[
+				"req",
+				"req_value"
+			],
+			[
+				"app",
+				"applied_val"
+			],
+			[
+				"retr",
+				"return_dict"
+			],
+			[
+				"get_",
+				"get_fiscal_week"
+			],
+			[
+				"initial",
+				"initialize"
+			],
+			[
+				"escap",
+				"escape_screen"
+			],
+			[
+				"eval_con",
+				"eval_cond_val"
+			],
+			[
+				"eval_co",
+				"eval_cond_val"
+			],
+			[
+				"svc",
+				"svc_choice_method"
+			],
+			[
+				"wprint",
+				"wprint_pages"
+			],
+			[
+				"wprin",
+				"wprint_text"
+			],
+			[
+				"skill",
+				"skill_width"
+			],
+			[
+				"serv_",
+				"serv_height"
+			],
+			[
+				"right",
+				"right_x"
+			],
+			[
+				"reti",
+				"retired_text"
+			],
+			[
+				"pot_",
+				"pot_value"
+			],
+			[
+				"pers",
+				"pers_info_max_x"
+			],
+			[
+				"name",
+				"name_path"
+			],
+			[
+				"chargen",
+				"chargen_data"
+			],
+			[
+				"potent",
+				"potentials"
+			],
+			[
+				"ret",
+				"retirement_dict"
+			],
+			[
+				"ran",
+				"rank_name"
+			],
+			[
+				"age",
+				"age_effect"
+			],
+			[
+				"reen",
+				"reenlist_dict"
+			],
+			[
+				"aq_skill",
+				"aq_skill_count"
+			],
+			[
+				"wpri",
+				"wprint_text"
+			],
+			[
+				"aq_skil",
+				"aq_skill_count"
+			],
+			[
+				"info",
+				"info_text"
+			],
+			[
+				"result",
+				"result_text"
+			],
+			[
+				"aq_",
+				"aq_skill_text"
+			],
+			[
+				"char",
+				"chargen_data"
+			],
+			[
+				"term",
+				"term_dict"
+			],
+			[
+				"comm",
+				"commission_services"
+			],
+			[
+				"exit",
+				"exit_state"
+			],
+			[
+				"chargen_",
+				"chargen_step"
+			],
+			[
+				"enlist",
+				"enlist_text"
+			],
+			[
+				"en",
+				"enlist_dict"
+			],
+			[
+				"enli",
+				"enlist_text"
+			],
+			[
+				"print_",
+				"print_char_win"
+			],
+			[
+				"roll",
+				"roll_potentials"
+			],
+			[
+				"potenti",
+				"potential_lines"
+			],
+			[
+				"left",
+				"left_text"
+			],
+			[
+				"po",
+				"potent_text"
+			],
+			[
+				"file",
+				"file_str"
+			],
+			[
+				"subhea",
+				"subheader_text"
+			],
+			[
+				"foot",
+				"footer_text"
+			],
+			[
+				"max",
+				"max_y"
+			],
+			[
+				"state",
+				"state_data"
+			],
+			[
+				"bene",
+				"bene_bonus"
+			],
+			[
+				"bene_",
+				"benefit_dict"
+			],
+			[
+				"journ",
+				"journal_data"
+			],
+			[
+				"aging",
+				"aging_msg"
+			],
+			[
+				"journal_",
+				"journal_msg"
+			],
+			[
+				"evalua",
+				"evaluate_roll"
+			],
+			[
+				"succ",
+				"success_chance"
+			],
+			[
+				"service",
+				"service_journal"
+			],
+			[
+				"surv",
+				"survival_chance"
+			],
+			[
+				"bonus",
+				"bonus_msg"
+			],
+			[
+				"eval",
+				"eval_bonus_amt"
+			],
+			[
+				"survival",
+				"survival_bonus"
+			],
+			[
+				"ser",
+				"service_journal"
+			],
+			[
+				"bonu",
+				"bonus_msg"
+			],
+			[
+				"enl",
+				"enlist_roll"
+			],
+			[
+				"init",
+				"init_roll"
+			],
+			[
+				"servi",
+				"service_journal"
+			],
+			[
+				"stat",
+				"state_data"
+			],
+			[
+				"saved",
+				"saved_state"
+			],
+			[
+				"load",
+				"load_choice"
+			],
+			[
+				"return",
+				"return_to_game"
+			],
+			[
+				"retrun",
+				"return_val"
+			],
+			[
+				"finali",
+				"menu_finalize"
+			],
+			[
+				"esc",
+				"escape_choice"
+			],
+			[
+				"es",
+				"escape_choice"
+			],
+			[
+				"Event",
+				"EventHandler"
+			],
+			[
+				"norm",
+				"normal_match"
+			],
+			[
+				"char_attr_",
+				"char_attr_str"
+			],
+			[
+				"orig",
+				"orig_text"
+			],
+			[
+				"char_",
+				"char_only"
+			],
+			[
+				"Format",
+				"FormattedTextLine"
+			],
+			[
+				"wrapped",
+				"wrapped_text"
+			],
+			[
+				"Line",
+				"LineAttribute"
+			],
+			[
+				"escape",
+				"escape_ind"
+			],
+			[
+				"default",
+				"default_vpad"
+			],
+			[
+				"pad_",
+				"pad_starty"
+			],
+			[
+				"max_",
+				"max_x"
+			],
+			[
+				"line",
+				"line_count"
+			],
+			[
+				"curren",
+				"current_col"
+			],
+			[
+				"show",
+				"show_options"
+			],
+			[
+				"acti",
+				"active_menu_defaults"
+			],
+			[
+				"size",
+				"size_opts"
+			],
+			[
+				"new",
+				"new_win"
+			],
+			[
+				"eve",
+				"event_handler"
+			],
+			[
+				"menu_",
+				"menu_items"
+			],
+			[
+				"Even",
+				"EventHandler"
+			],
+			[
+				"Eve",
+				"EventHandler"
+			],
+			[
+				"menu_d",
+				"menu_disp_list"
+			],
+			[
+				"menu",
+				"menu_defaults"
+			],
+			[
+				"men",
+				"menu_defaults"
+			],
+			[
+				"pre",
+				"prev_item"
+			],
+			[
+				"x",
+				"x_coord"
+			],
+			[
+				"y",
+				"y_coord"
+			],
+			[
+				"pages",
+				"pages_count"
+			],
+			[
+				"Generic",
+				"GenericDisplay"
+			],
+			[
+				"curre",
+				"current_line"
+			],
+			[
+				"tmp",
+				"tmp_vpad"
+			],
+			[
+				"attr_m",
+				"attr_match_obj"
+			],
+			[
+				"get",
+				"get_input"
+			],
+			[
+				"current",
+				"current_page"
+			],
+			[
+				"display",
+				"display_text"
+			],
+			[
+				"append",
+				"append_text"
+			],
+			[
+				"wrap",
+				"wrap_s"
+			],
+			[
+				"verti",
+				"vertical_menu"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "toots/intro.orc",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notepad/Envelopes/envelopes.orc",
+			"settings":
+			{
+				"buffer_size": 726,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Chapter1/etude1.orc",
+			"settings":
+			{
+				"buffer_size": 79,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notepad/Envelopes/transeg.csd",
+			"settings":
+			{
+				"buffer_size": 699,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "toots/intro.sco",
+			"settings":
+			{
+				"buffer_size": 379,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notepad/Envelopes/envelopes.sco",
+			"settings":
+			{
+				"buffer_size": 757,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Chapter1/etude1.sco",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Method"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"vm",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sublime.packages_path()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dnb/svn/csound",
+		"/home/dnb/svn/csound/notepad",
+		"/home/dnb/svn/csound/notepad/Envelopes",
+		"/home/dnb/svn/csound/notepad/GEN10 Harmonics"
+	],
+	"file_history":
+	[
+		"/home/dnb/svn/lilypond/Haruspex_et_Augur/Haruspex_et_Augur.ly",
+		"/home/dnb/svn/csound/csound.sublime-project",
+		"/home/dnb/svn/csound/toots/tone_env.sco",
+		"/home/dnb/svn/csound/toots/tone_env.orc",
+		"/home/dnb/svn/csound/notepad/notes.orc",
+		"/home/dnb/svn/csound/notepad/notes.sco",
+		"/home/dnb/audio-projects/CSound/Kim Cascone/bluecube/bluecube.sco",
+		"/home/dnb/audio-projects/CSound/Kim Cascone/bluecube/twiddle.sco",
+		"/home/dnb/audio-projects/CSound/Kim Cascone/bluecube/bluecube.orc",
+		"/home/dnb/audio-projects/CSound/Kim Cascone/bluecube/twiddle.orc",
+		"/home/dnb/audio-projects/CSound/toots/dropwater.csd",
+		"/home/dnb/bluecube/bluecube.orc",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5.2/RELEASE_NOTES.txt",
+		"/home/dnb/svn/patron/notes/Metric_time2.txt",
+		"/home/dnb/svn/patron/code/trunk/events.py",
+		"/home/dnb/svn/patron/code/trunk/widgets.py",
+		"/home/dnb/svn/patron/code/trunk/test.py",
+		"/home/dnb/svn/patron/code/trunk/ui.py",
+		"/home/dnb/svn/patron/code/trunk/states/maps.py",
+		"/home/dnb/svn/patron/code/trunk/states/chargen.py",
+		"/home/dnb/svn/patron/code/trunk/places.py",
+		"/home/dnb/svn/patron/code/trunk/game.py",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5.2/space.py",
+		"/home/dnb/svn/patron/code/trunk/people.py",
+		"/home/dnb/svn/patron/code/trunk/states/gameopts.py",
+		"/home/dnb/csound_tmp/05B04_hrtfmove.csd",
+		"/home/dnb/svn/patron/code/trunk/RELEASE_NOTES.txt",
+		"/home/dnb/svn/patron/code/branches/r0.2.2-ImproveStates/RELEASE_NOTES.txt",
+		"/home/dnb/svn/patron/code/tags/release-0.2.3/RELEASE_NOTES.txt",
+		"/home/dnb/svn/patron/code/trunk/states/reference.py",
+		"/home/dnb/svn/patron/code/branches/r0.2.2-ImproveStates/states/reference.py",
+		"/home/dnb/svn/patron/code/branches/r0.2.2-ImproveStates/states/chargen.py",
+		"/home/dnb/poscil.csd",
+		"/home/dnb/svn/patron/code/trunk/settings.py",
+		"/home/dnb/.config/sublime-text-3/Packages/Python Flake8 Lint/Default (Linux).sublime-keymap",
+		"/home/dnb/svn/patron/notes/Stories.txt",
+		"/home/dnb/svn/patron/notes/New Game Thoughts.txt",
+		"/home/dnb/svn/patron/notes/PatronGameNotes.txt",
+		"/home/dnb/svn/patron/docs/Patron_Manual.txt",
+		"/home/dnb/svn/patron/notes/Space Sector Sizes.txt",
+		"/home/dnb/svn/patron/notes/ReleaseNotes/RELEASE_NOTES_v0.3.0.txt",
+		"/home/dnb/svn/patron/code/trunk/states/__init__.py",
+		"/home/dnb/lib.py",
+		"/home/dnb/svn/patron/notes/MapExamples.txt",
+		"/home/dnb/svn/patron/sublime-projects/patron.sublime-project",
+		"/home/dnb/svn/patron/code/trunk/tmp.py",
+		"/home/dnb/svn/patron/Patron_Requirements_v0.3.0.txt",
+		"/home/dnb/svn/patron/Patron_Requirements_v0.0.txt",
+		"/home/dnb/svn/patron/Patron_Requirements_v0.2.2.txt",
+		"/home/dnb/svn/patron/notes/ReleaseNotes/RELEASE_NOTES_v0.2.2.txt",
+		"/home/dnb/svn/patron/notes/ReleaseNotes/RELEASE_NOTES_template.txt",
+		"/home/dnb/svn/patron/code/trunk/states/gameinit.py",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5.2/game.py",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5.2/ui.py",
+		"/home/dnb/svn/patron/Patron_Requirements_v0.2.1.txt",
+		"/home/dnb/svn/patron/notes/ReleaseNotes/RELEASE_NOTES_v0.2.1.txt",
+		"/home/dnb/svn/patron/code/trunk/pkg_resources/__init__.py",
+		"/home/dnb/svn/patron/code/tags/release-0.2.1/events.py",
+		"/home/dnb/svn/patron/code/trunk/states/escape.py",
+		"/home/dnb/svn/patron/code/trunk/std.py",
+		"/home/dnb/svn/patron/code/trunk/space.py",
+		"/home/dnb/svn/patron/code/trunk/states/game_init.py",
+		"/home/dnb/svn/patron/code/trunk/states.py",
+		"/home/dnb/svn/patron/code/trunk/test_state/__init__.py",
+		"/home/dnb/svn/patron/code/trunk/test_state/lvlthree.py",
+		"/home/dnb/svn/patron/code/trunk/test_state/lvltwo.py",
+		"/home/dnb/svn/patron/code/trunk/resources/names/male_char_names.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/names/female_char_names.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3_term_intro.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3d_term_auto_skills.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3f_term_reenlist.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/5_char_details.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/4_muster_out.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3g_term_end.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3f_term_rrenlist.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3e_term_aq_skills.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3c_term_promotion.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3b_1st_term_commission.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3a_term_survival.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3b_term_commission.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/1_potentials_intro.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/2_enlist_intro.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/3_draft_intro.txt",
+		"/home/dnb/svn/patron/code/trunk/resources/text/chargen/intro.txt",
+		"/home/dnb/svn/patron/code/trunk/__main__.py",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5/chargen.py",
+		"/home/dnb/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/dnb/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/dnb/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/dnb/svn/patron/notes/ReleaseNotes/RELEASE_NOTES_v0.2.0.txt",
+		"/home/dnb/svn/patron/code/tags/release-0.2.0/RELEASE_NOTES.txt",
+		"/home/dnb/svn/patron/archive/Patron_Requirements_v0.2.0.txt",
+		"/home/dnb/svn/patron/Patron_Requirements_v0.2.txt",
+		"/home/dnb/svn/patron/notes/ReleaseNotes/RELEASE_NOTES_v0.2.txt",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5/game.py",
+		"/mnt/data/svn/patron/code/trunk/test_long.txt",
+		"/mnt/data/svn/patron/code/trunk/test_long2.txt",
+		"/home/dnb/svn/patron/code/trunk/less.py",
+		"/mnt/data/svn/patron/code/trunk/less.py",
+		"/home/dnb/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/dnb/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/mnt/data/svn/patron/sublime-projects/patron.sublime-project",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5/travel.py",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5/ui.py",
+		"/home/dnb/svn/patron/code/tags/release-0.1/ui.py",
+		"/home/dnb/Sandbox/python/transitions-master/transitions/core.py",
+		"/home/dnb/svn/patron/code/trunk/packages/unicurses/__init__.py",
+		"/home/dnb/svn/patron/code/trunk/content.py",
+		"/home/dnb/svn/patron/notes/TestData/long_fmt_str.txt",
+		"/home/dnb/svn/patron/code/trunk/test_short.txt",
+		"/home/dnb/Desktop/Playlists/Coil3.m3u8",
+		"/home/dnb/svn/patron/code/trunk/screens.py",
+		"/home/dnb/svn/patron/code/trunk/packages/pkg_resources/__init__.py",
+		"/home/dnb/svn/patron/code/trunk/test.txt",
+		"/home/dnb/Desktop/tmp.xml",
+		"/home/dnb/svn/patron/Patron_Requirements_v0.1.txt",
+		"/home/dnb/svn/patron/notes/ReleaseNotes/RELEASE_NOTES_v0.1.txt",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5/RELEASE_NOTES.txt",
+		"/home/dnb/Desktop/unicurses-master/demos/test_keymenu.py",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5/space.py",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/reference/Subsector_Map.txt",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/notes/objects.txt",
+		"/home/dnb/svn/patron/archive/Patron_Requirements_v0.0.txt",
+		"/home/dnb/Desktop/unicurses-master/test.py",
+		"/home/dnb/svn/patron/code/trunk/packages/getch.py",
+		"/home/dnb/svn/projects/PRJ-0024-ETC/PRJ-0024-ETC_TRAVELLER_PYTHON_GAME.txt",
+		"/home/dnb/Desktop/UniCurses-1.2/docs/readme.txt",
+		"/home/dnb/Desktop/UniCurses-1.2/demos/test_panels_advanced.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "toots/intro.orc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "notepad/Envelopes/envelopes.orc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Chapter1/etude1.orc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "notepad/Envelopes/transeg.csd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "toots/intro.sco",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "notepad/Envelopes/envelopes.sco",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Chapter1/etude1.sco",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 160.0
+	},
+	"pinned_build_system": "",
+	"project": "csound.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"trunk/ui.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/svn/patron/sublime-projects/patron.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
