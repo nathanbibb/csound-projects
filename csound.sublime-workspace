@@ -532,7 +532,7 @@
 			"file": "notepad/Envelopes/envelopes.orc",
 			"settings":
 			{
-				"buffer_size": 726,
+				"buffer_size": 979,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -542,15 +542,6 @@
 			"settings":
 			{
 				"buffer_size": 79,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "notepad/Envelopes/transeg.csd",
-			"settings":
-			{
-				"buffer_size": 699,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -568,9 +559,17 @@
 			"file": "notepad/Envelopes/envelopes.sco",
 			"settings":
 			{
-				"buffer_size": 757,
+				"buffer_size": 1315,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Kim Cascone/bluecube/bluecube.orc",
+			"settings":
+			{
+				"buffer_size": 12117,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -578,6 +577,15 @@
 			"settings":
 			{
 				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notepad/Envelopes/transeg.csd",
+			"settings":
+			{
+				"buffer_size": 697,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -650,12 +658,16 @@
 	"expanded_folders":
 	[
 		"/home/dnb/svn/csound",
+		"/home/dnb/svn/csound/Kim Cascone",
+		"/home/dnb/svn/csound/Kim Cascone/bluecube",
 		"/home/dnb/svn/csound/notepad",
+		"/home/dnb/svn/csound/notepad/CSound Manual Examples",
 		"/home/dnb/svn/csound/notepad/Envelopes",
 		"/home/dnb/svn/csound/notepad/GEN10 Harmonics"
 	],
 	"file_history":
 	[
+		"/home/dnb/svn/csound/notepad/CSound Manual Examples/wgbow.csd",
 		"/home/dnb/svn/lilypond/Haruspex_et_Augur/Haruspex_et_Augur.ly",
 		"/home/dnb/svn/csound/csound.sublime-project",
 		"/home/dnb/svn/csound/toots/tone_env.sco",
@@ -782,8 +794,7 @@
 		"/home/dnb/Desktop/unicurses-master/test.py",
 		"/home/dnb/svn/patron/code/trunk/packages/getch.py",
 		"/home/dnb/svn/projects/PRJ-0024-ETC/PRJ-0024-ETC_TRAVELLER_PYTHON_GAME.txt",
-		"/home/dnb/Desktop/UniCurses-1.2/docs/readme.txt",
-		"/home/dnb/Desktop/UniCurses-1.2/demos/test_panels_advanced.py"
+		"/home/dnb/Desktop/UniCurses-1.2/docs/readme.txt"
 	],
 	"find":
 	{
@@ -846,7 +857,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -855,20 +866,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 726,
+						"buffer_size": 979,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								513,
-								513
+								874,
+								874
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -904,34 +917,6 @@
 					},
 					"stack_index": 4,
 					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "notepad/Envelopes/transeg.csd",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 699,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								531,
-								531
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
 				}
 			]
 		},
@@ -940,7 +925,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "toots/intro.sco",
 					"semi_transient": false,
 					"settings":
@@ -964,24 +949,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "notepad/Envelopes/envelopes.sco",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 757,
+						"buffer_size": 1315,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								660,
-								660
+								1315,
+								1315
 							]
 						],
 						"settings":
@@ -993,6 +978,36 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Kim Cascone/bluecube/bluecube.orc",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 12117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax",
+							"tab_size": 5,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -1020,7 +1035,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "notepad/Envelopes/transeg.csd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]

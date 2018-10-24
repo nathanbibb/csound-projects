@@ -29,8 +29,8 @@ instr 3
 endin
 
 instr 4
-    ;var    opcode  ia      idur    itype   ib  idur2   itype2  ic
-    kenv    transeg 1,      0.04,   -10,    p5, p3,     -10,     1
+    ;var    opcode  ia      idur    itype   ib  idur2   itype2      ic
+    kenv    transeg 1,      0.04,   -10,    p5, p3,     -1*p3,      1
     ;var    opcode  amp     freq    ftable
     a1      oscil   kenv,   p4,     p6
     out     a1

@@ -37,34 +37,15 @@ _'_____________________________________'________________________________________
                                                   '.                 .'
                                                     '._           _-'
                                                        -.._____.-'
-new alloc for instr 3:
-B  0.000 ..  3.000 T  3.000 TT  3.000 M:   9981.0
-new alloc for instr 3:
-B  3.000 ..  4.000 T  4.000 TT  4.000 M:  10428.0
-new alloc for instr 3:
-B  4.000 ..  7.000 T  7.000 TT  7.000 M:  13741.5
-new alloc for instr 3:
-B  7.000 ..  8.000 T  8.000 TT  8.000 M:  10599.1
-new alloc for instr 3:
-B  8.000 .. 18.000 T 18.000 TT 18.000 M:  13955.3
 new alloc for instr 4:
-B 18.000 .. 21.000 T 21.000 TT 21.000 M:  10000.0
-new alloc for instr 4:
-B 21.000 .. 22.000 T 22.000 TT 22.000 M:  10437.7
-new alloc for instr 4:
-B 22.000 .. 25.000 T 25.000 TT 25.000 M:  13799.3
-new alloc for instr 4:
-B 25.000 .. 26.000 T 26.000 TT 26.000 M:  10513.5
-new alloc for instr 4:
-B 26.000 .. 28.000 T 28.000 TT 28.000 M:  13619.7
-B 28.000 .. 31.000 T 31.000 TT 31.000 M:   1907.6
-B 31.000 .. 32.000 T 32.000 TT 32.000 M:     95.7
-B 32.000 .. 35.000 T 35.000 TT 35.000 M:     35.4
-B 35.000 .. 36.000 T 36.000 TT 36.000 M:      1.8
+B  0.000 ..  5.000 T  5.000 TT  5.000 M:  10000.0
+B  5.000 .. 10.000 T 10.000 TT 10.000 M:  10000.0
+B 10.000 .. 20.000 T 20.000 TT 20.000 M:  10000.0
+B 20.000 .. 50.000 T 50.000 TT 50.000 M:  10000.0
 Score finished in csoundPerform().
 inactive allocs returned to freespace
-end of score.		   overall amps:  13955.3
+end of score.		   overall amps:  10000.0
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 0.423s, CPU: 0.421s
+Elapsed time at end of performance: real: 0.352s, CPU: 0.351s
 256 512 sample blks of shorts written to envelopes.wav (WAV)
