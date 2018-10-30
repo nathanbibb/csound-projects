@@ -1,0 +1,157 @@
+[NOTE 2018-10-28: I recently found this file in a folder of misc. text files,
+and I am using this as the basis of the first part of my second round of Works
+for Tone Generator.  This file itelf is not dated, but the "Last Modified"
+timestamp of the file is Sept. 20, 2004, so it is at least that old. - NB]
+
+In developing new scales for my 'works for tone generator', I have hit on something that I really like.
+
+First of all, I am beginning to think that all of my scales will (at least for now) make use of the following template, with nodes at the fifth and fourth:
+
+                4               9                  4
+1/1-----------------------4/3------3/2-----------------------2/1
+                3               8                  3
+Unison                    4th      5th                     Octave
+
+This is because of the harmonic series, whose tones go from large to small (and I would argue most to least important/unalterable) in the scale.  The way I see it, it's like the first few overtones of the harmonic series are like large islands in a sea, difficult to ignore or change, while the smaller overtones are like atolls, they can be visited or not, as the traveller likes, and the smallest are like sandbars, constantly shifting as the sea flows.
+
+Here are the Overtones of the Harmonic Series that I am refusing to alter (The Big Islands):
+
+1/1 - Unison, the base of the scale in question.  Lately I've been using 1/1 = 135Hz for reasons of arithmetic.  I try to avoid irrational or repeating decimals.
+
+2/1 - Octave, the fundamental sound which is the ending/new beginning of the scale, musically the same as 1/1.
+
+3/2 - Fifth, which gives reference to the unison and octave.  The fifth is a powerful interval, as can be seen by its use in 'power chords' of metallica fame.
+
+4/3 - Fourth, another powerful interval, but tonality starts to get murky at this point.  I have included it as a 'node' because it creates such a nice symmetry (4/3-9/8-4/3).
+
+So that leaves the rest of the harmonic series usable at my will (The Smaller Atolls):
+
+5/4 - Major Third, which in 12-Equal Temperament (our standard 12-tone piano
+scale) is relatively out of line with the harmonic ratio.
+
+6/5 - minor Third, also out of whack in 12-equal.
+
+7/6 and 8/7 - Sub-minor Thirds.  These are the intervals I am most interested in, since they are completely ignored in Western music, but create beautiful melodic and harmonic sounds, in my opinion.  I also enjoy their inverses, 12/7 and 7/4 respectively.
+
+9/8 - Major Second, or Whole Tone, in 12-Equal.
+
+...and from there intervals just get smaller and smaller.  In case you are wondering, the 12-Equal minor Second is most closely represented by 18/17, but this leaves an interval of 17/16 before arriving at the 9/8 Major Second.
+
+Smaller intervals (various "seconds", The Shifting Sandbars) that I am using in my new scale:
+
+10/9, 15/14, 16/15, 21/20
+
+There would be much smaller intervals if I laid all the tones I wanted to use on a one-dimensional scale.  However, I came up with a way to build a series of "paths" in two dimensional space, based on a book I read about Indian Ragas:
+
+
+/--------Section i--------\/-Sec.ii-\/-------Section iii------\
+
+
+     /------8/7---6/5--\                /-----5/3---7/4---\
+    /       /           \     7/5-\    /                   \
+   /       /---/         \   /     \  /      6           10 \
+1/1-------9/8            4/3------3/2---------------9/5-----2/1
+   \      \----\       /   \     /   \      5            9 /
+    \           \     /     \10/7     \                   /
+     \---------7/6---5/4               \8/5----12/7------/
+
+
+This arrangement allows for 36 different scales, depending on how you arrange the various paths between the nodes:
+
+Section i:
+
+===========================================
+===========================================
+path i.i
+       9      16      10
+1/1-------9/8----6/5------4/3
+       8      15       9
+
+==================================
+path i.ii
+    9      10         16
+1/1-------9/8------5/4----4/3
+    8       9         15
+
+==================================
+path i.iii
+      8       21     10
+1/1--------8/7---6/5------4/3
+      7       20      9
+
+==================================
+path i.iv
+      7        15     16
+1/1---------7/6----5/4----4/3
+      6        14     15
+
+===========================================
+===========================================
+
+Section ii:
+
+===========================================
+===========================================
+path ii.i
+     9
+4/3------3/2
+     8
+
+==================================
+path ii.ii
+   21    15
+4/3--7/5----3/2
+   20    16
+
+==================================
+path ii.iii
+    15     21
+4/3----10/7--3/2
+    16     20
+
+===========================================
+===========================================
+
+Section iii:
+
+===========================================
+===========================================
+path iii.i
+        6            10
+3/2---------------9/5-----2/1
+        5             9
+
+==================================
+path iii.ii
+    10      21       8
+3/2--------5/3--7/4------2/1
+     9      20     7
+
+==================================
+path iii.iii
+    16    15         7
+3/2---8/5----12/7---------2/1
+    15    14         6
+
+===========================================
+===========================================
+
+...so to create a scale, one version of each section just needs to be put
+together:
+
+example:
+
+/------------i.ii-----------\/---ii.ii--\/---------iii.iii--------\
+
+    9      10         16    21    15     16    15         7
+1/1-------9/8------5/4----4/3--7/5----3/2---8/5----12/7---------2/1
+    8       9         15    20    16     15    14         6
+
+...this would create a kind of major scale, but with a non-standard series of intervals between the fifth and the octave.
+
+The way I see this working is as a complete system, that the performer (in improvised music) or the composer may choose from at any time during a given piece of music.  All of the tones in these scales are based on Harry Partch's "Monophonic Fabric," but rather than throw 43 notes into an octave, this system intends to create a usable system of flexible scale usage, a kind of compromise between a linear scale and Partch's vast "fabric."
+
+I still haven't figured out how I would like to place the individual intervals within the system, but the system of 3 sections and 4 nodes (1/1-4/3-3/2-2/1) seems like it has a great deal of possibilities.  Various improvisations could be tried out if I had a way to easily put these scales into an instrument and experiment.
+
+So that is my next challenge.  Painstakingly building the scales with a tone generator and building composed pieces in ProTools is OK, but it takes a lot of time, and no chance to play around with the scale.  What I need is an instrument with completely adjustable tuning.  Where that will come from, I am not yet sure.
+

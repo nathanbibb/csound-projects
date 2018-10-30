@@ -24,9 +24,10 @@ instr 1
     ;var    opcode  ia      idur    itype   ib  idur2   itype2      ic
     kenv    transeg 1,      0.04,   -10,    p5, p3,     -1*p3,      1
 
-    ; This calls the tuning frequency from the f2 table in the sco file
+    ; This calls the tuning frequency from the a table in the sco file
     ;var    opcode  index   table
-    ifreq   cpstuni p4,      2
+    ifreq   cpstuni p4,     p7
+    print ifreq
 
     ; Sine wave generator
     ;var    opcode  amp     freq    ftable
