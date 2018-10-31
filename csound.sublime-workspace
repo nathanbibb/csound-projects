@@ -520,15 +520,6 @@
 	"buffers":
 	[
 		{
-			"file": "toots/intro.orc",
-			"settings":
-			{
-				"buffer_size": 235,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "notepad/Envelopes/envelopes.orc",
 			"settings":
 			{
@@ -538,30 +529,30 @@
 			}
 		},
 		{
-			"file": "Chapter1/etude1.orc",
+			"file": "wftg2/wftg2_p00.orc",
 			"settings":
 			{
-				"buffer_size": 79,
+				"buffer_size": 1215,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "toots/intro.sco",
+			"file": "notepad/tones/tones.orc",
 			"settings":
 			{
-				"buffer_size": 379,
+				"buffer_size": 192,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "notepad/Envelopes/envelopes.sco",
+			"file": "wftg2/scale.txt",
 			"settings":
 			{
-				"buffer_size": 1315,
+				"buffer_size": 6908,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -573,21 +564,38 @@
 			}
 		},
 		{
-			"file": "Chapter1/etude1.sco",
+			"file": "notepad/Envelopes/envelopes.sco",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1304,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "notepad/Envelopes/transeg.csd",
+			"file": "wftg2/wftg2_p00.sco",
 			"settings":
 			{
-				"buffer_size": 697,
+				"buffer_size": 7453,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notepad/tones/tones.sco",
+			"settings":
+			{
+				"buffer_size": 503,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Kim Cascone/bluecube/bluecube.sco",
+			"settings":
+			{
+				"buffer_size": 7132,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -667,6 +675,11 @@
 	],
 	"file_history":
 	[
+		"/home/dnb/svn/csound/Chapter1/etude1.sco",
+		"/home/dnb/svn/csound/notepad/Envelopes/transeg.csd",
+		"/home/dnb/svn/csound/toots/intro.sco",
+		"/home/dnb/svn/csound/Chapter1/etude1.orc",
+		"/home/dnb/svn/csound/toots/intro.orc",
 		"/home/dnb/svn/csound/notepad/CSound Manual Examples/wgbow.csd",
 		"/home/dnb/svn/lilypond/Haruspex_et_Augur/Haruspex_et_Augur.ly",
 		"/home/dnb/svn/csound/csound.sublime-project",
@@ -789,12 +802,7 @@
 		"/home/dnb/Desktop/unicurses-master/demos/test_keymenu.py",
 		"/home/dnb/svn/projects/PRJ-0024-ETC/code/trav-0.5/space.py",
 		"/home/dnb/svn/projects/PRJ-0024-ETC/reference/Subsector_Map.txt",
-		"/home/dnb/svn/projects/PRJ-0024-ETC/notes/objects.txt",
-		"/home/dnb/svn/patron/archive/Patron_Requirements_v0.0.txt",
-		"/home/dnb/Desktop/unicurses-master/test.py",
-		"/home/dnb/svn/patron/code/trunk/packages/getch.py",
-		"/home/dnb/svn/projects/PRJ-0024-ETC/PRJ-0024-ETC_TRAVELLER_PYTHON_GAME.txt",
-		"/home/dnb/Desktop/UniCurses-1.2/docs/readme.txt"
+		"/home/dnb/svn/projects/PRJ-0024-ETC/notes/objects.txt"
 	],
 	"find":
 	{
@@ -812,13 +820,19 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"\\t",
+			"\t",
+			"\\t"
 		],
 		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"    ",
+			"        ",
+			"    "
 		],
 		"reverse": false,
 		"show_context": true,
@@ -834,19 +848,171 @@
 			[
 				{
 					"buffer": 0,
-					"file": "toots/intro.orc",
+					"file": "notepad/Envelopes/envelopes.orc",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 235,
+						"buffer_size": 979,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								979,
+								979
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wftg2/wftg2_p00.orc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "notepad/tones/tones.orc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wftg2/scale.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4538,
+								4538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1968.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Kim Cascone/bluecube/bluecube.orc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax",
+							"tab_size": 5,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4848.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "notepad/Envelopes/envelopes.sco",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								962
 							]
 						],
 						"settings":
@@ -861,112 +1027,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "notepad/Envelopes/envelopes.orc",
+					"buffer": 6,
+					"file": "wftg2/wftg2_p00.sco",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 979,
+						"buffer_size": 7453,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								874,
-								874
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Chapter1/etude1.orc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 79,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								79,
-								79
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "toots/intro.sco",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 379,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								379,
-								379
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "notepad/Envelopes/envelopes.sco",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1315,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1315,
-								1315
+								459,
+								459
 							]
 						],
 						"settings":
@@ -981,50 +1055,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "Kim Cascone/bluecube/bluecube.orc",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 12117,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax",
-							"tab_size": 5,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "Chapter1/etude1.sco",
+					"buffer": 7,
+					"file": "notepad/tones/tones.sco",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 503,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								469,
+								469
 							]
 						],
 						"settings":
@@ -1039,20 +1083,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "notepad/Envelopes/transeg.csd",
+					"buffer": 8,
+					"file": "Kim Cascone/bluecube/bluecube.sco",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 697,
+						"buffer_size": 7132,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								283,
-								283
+								149,
+								149
 							]
 						],
 						"settings":
@@ -1063,7 +1107,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -1119,7 +1163,7 @@
 	"project": "csound.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
