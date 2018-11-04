@@ -576,7 +576,7 @@
 			"file": "wftg2/wftg2_p00.sco",
 			"settings":
 			{
-				"buffer_size": 7453,
+				"buffer_size": 6664,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -898,7 +898,7 @@
 							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 96.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1032,15 +1032,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7453,
+						"buffer_size": 6664,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								459,
-								459
+								3269,
+								3269
 							]
 						],
 						"settings":
@@ -1048,7 +1048,7 @@
 							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1038.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

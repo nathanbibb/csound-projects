@@ -5,7 +5,7 @@ libsndfile-1.0.28
 orchname:  wftg2_p00.orc
 rtaudio: ALSA module enabled
 rtmidi: ALSA Raw MIDI module enabled
-Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
+Elapsed time at end of orchestra compile: real: 0.001s, CPU: 0.001s
 sorting score ...
 	... done
 Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
@@ -38,34 +38,7 @@ _'_____________________________________'________________________________________
                                                     '._           _-'
                                                        -.._____.-'
 ftable 2:
-ftable 2:	128 points, scalemax 231.000
- _
-
-
-
-
-
-
-
-
-
--_______________________________________________________________
-ftable 3:
-ftable 3:	128 points, scalemax 231.000
- _
-
-
-
-
-
-
-
-
-
-._______________________________________________________________
-WARNING: replacing previous ftable 3
-ftable 3:
-ftable 3:	128 points, scalemax 87.000
+ftable 2:	128 points, scalemax 87.000
  _
 
 
@@ -203,14 +176,84 @@ B130.000 ..134.000 T107.200 TT107.200 M:  11226.7
 instr 1:  ifreq = 104.400
 B134.000 ..137.000 T109.600 TT109.600 M:  10305.5
 instr 1:  ifreq = 195.750
-B137.000 ..138.000 T110.400 TT110.400 M:  10858.2
-B138.000 ..140.000 T112.000 TT112.000 M:   5045.4
-B140.000 ..144.000 T115.200 TT115.200 M:   1004.9
-B144.000 ..147.000 T117.600 TT117.600 M:     36.1
+B137.000 ..140.000 T112.000 TT112.000 M:  10858.2
+instr 1:  ifreq = 87.000
+B140.000 ..144.000 T115.200 TT115.200 M:  10776.3
+instr 1:  ifreq = 163.125
+B144.000 ..147.000 T117.600 TT117.600 M:  10385.9
+instr 1:  ifreq = 104.400
+B147.000 ..151.000 T120.800 TT120.800 M:  10869.0
+instr 1:  ifreq = 195.750
+instr 1:  ifreq = 391.500
+B151.000 ..154.000 T123.200 TT123.200 M:  11731.3
+instr 1:  ifreq = 163.125
+B154.000 ..156.000 T124.800 TT124.800 M:  10844.6
+instr 1:  ifreq = 447.429
+B156.000 ..158.000 T126.400 TT126.400 M:   4189.6
+instr 1:  ifreq = 87.000
+B158.000 ..161.000 T128.800 TT128.800 M:  10644.3
+instr 1:  ifreq = 195.750
+B161.000 ..163.000 T130.400 TT130.400 M:  10858.7
+instr 1:  ifreq = 417.600
+B163.000 ..165.000 T132.000 TT132.000 M:   3992.8
+instr 1:  ifreq = 104.400
+B165.000 ..167.000 T133.600 TT133.600 M:  10641.9
+instr 1:  ifreq = 290.000
+B167.000 ..168.000 T134.400 TT134.400 M:   4084.1
+instr 1:  ifreq = 163.125
+B168.000 ..172.000 T137.600 TT137.600 M:  11248.4
+instr 1:  ifreq = 87.000
+B172.000 ..175.000 T140.000 TT140.000 M:  10417.6
+instr 1:  ifreq = 195.750
+B175.000 ..176.000 T140.800 TT140.800 M:  10840.5
+instr 1:  ifreq = 223.714
+B176.000 ..179.000 T143.200 TT143.200 M:   8510.9
+instr 1:  ifreq = 104.400
+B179.000 ..181.000 T144.800 TT144.800 M:  10599.8
+instr 1:  ifreq = 195.750
+B181.000 ..182.000 T145.600 TT145.600 M:   5910.8
+instr 1:  ifreq = 163.125
+B182.000 ..186.000 T148.800 TT148.800 M:  12469.8
+instr 1:  ifreq = 87.000
+B186.000 ..188.000 T150.400 TT150.400 M:  10449.8
+instr 1:  ifreq = 145.000
+B188.000 ..189.000 T151.200 TT151.200 M:   5691.1
+instr 1:  ifreq = 195.750
+B189.000 ..192.000 T153.600 TT153.600 M:  11963.3
+instr 1:  ifreq = 104.400
+B192.000 ..193.000 T154.400 TT154.400 M:   4999.2
+instr 1:  ifreq = 104.400
+B193.000 ..196.000 T156.800 TT156.800 M:   8589.7
+instr 1:  ifreq = 326.250
+B196.000 ..200.000 T160.000 TT160.000 M:   5726.0
+instr 1:  ifreq = 174.000
+B200.000 ..203.000 T162.400 TT162.400 M:   5199.3
+instr 1:  ifreq = 391.500
+B203.000 ..207.000 T165.600 TT165.600 M:   5440.8
+instr 1:  ifreq = 208.800
+B207.000 ..217.000 T173.600 TT173.600 M:   5219.5
+instr 1:  ifreq = 87.000
+B217.000 ..221.000 T176.800 TT176.800 M:   9999.6
+instr 1:  ifreq = 163.125
+B221.000 ..224.000 T179.200 TT179.200 M:  10386.1
+instr 1:  ifreq = 104.400
+B224.000 ..228.000 T182.400 TT182.400 M:  10869.0
+instr 1:  ifreq = 195.750
+B228.000 ..231.000 T184.800 TT184.800 M:  10389.7
+instr 1:  ifreq = 87.000
+B231.000 ..235.000 T188.000 TT188.000 M:  10892.0
+instr 1:  ifreq = 163.125
+B235.000 ..238.000 T190.400 TT190.400 M:  10385.9
+instr 1:  ifreq = 104.400
+B238.000 ..242.000 T193.600 TT193.600 M:  10869.0
+instr 1:  ifreq = 195.750
+B242.000 ..245.000 T196.000 TT196.000 M:  10389.7
+B245.000 ..248.000 T198.400 TT198.400 M:    965.1
+B248.000 ..252.000 T201.600 TT201.600 M:     83.3
 Score finished in csoundPerform().
 inactive allocs returned to freespace
 end of score.		   overall amps:  13636.0
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 3.797s, CPU: 3.788s
+Elapsed time at end of performance: real: 6.134s, CPU: 6.118s
 256 768 sample blks of 24bit ints written to wftg2_p00.wav (WAV)
