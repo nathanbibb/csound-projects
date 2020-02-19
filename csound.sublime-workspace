@@ -609,6 +609,10 @@
 		"selected_items":
 		[
 			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
 				"Package Control: ",
 				"Package Control: Install Package"
 			],
@@ -924,7 +928,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -951,10 +955,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1968.0,
+						"translation.y": 752.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -970,8 +974,8 @@
 						"selection":
 						[
 							[
-								685,
-								685
+								1699,
+								1699
 							]
 						],
 						"settings":
@@ -981,10 +985,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4848.0,
+						"translation.y": 384.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1018,7 +1022,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -1034,8 +1038,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								1568,
+								1568
 							]
 						],
 						"settings":
@@ -1043,7 +1047,7 @@
 							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1056.0,
+						"translation.y": 1680.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1074,7 +1078,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -1102,7 +1106,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
@@ -1196,7 +1200,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
