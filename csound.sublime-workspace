@@ -575,7 +575,26 @@
 			"file": "wftg2/wftg2_00.sco",
 			"settings":
 			{
-				"buffer_size": 6664,
+				"buffer_size": 6731,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wftg2/wftg2_scale.sco",
+			"settings":
+			{
+				"buffer_size": 1378,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wftg2/wftg2_scale2.sco",
+			"settings":
+			{
+				"buffer_size": 4898,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -609,11 +628,11 @@
 		"selected_items":
 		[
 			[
-				"Package Control: in",
+				"Package Control: ",
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
+				"Package Control: in",
 				"Package Control: Install Package"
 			],
 			[
@@ -667,8 +686,8 @@
 	},
 	"expanded_folders":
 	[
-		"/home/dnb/svn/csound",
-		"/home/dnb/svn/csound/wftg2"
+		"/home/dnb/Documents/git/csound-projects",
+		"/home/dnb/Documents/git/csound-projects/wftg2"
 	],
 	"file_history":
 	[
@@ -803,7 +822,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -856,8 +875,8 @@
 						"selection":
 						[
 							[
-								979,
-								979
+								285,
+								285
 							]
 						],
 						"settings":
@@ -870,7 +889,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -886,8 +905,8 @@
 						"selection":
 						[
 							[
-								577,
-								577
+								1215,
+								1215
 							]
 						],
 						"settings":
@@ -900,7 +919,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -928,7 +947,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -944,8 +963,8 @@
 						"selection":
 						[
 							[
-								4538,
-								4538
+								2502,
+								2502
 							]
 						],
 						"settings":
@@ -958,7 +977,7 @@
 						"translation.y": 752.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -988,13 +1007,13 @@
 						"translation.y": 384.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1022,24 +1041,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 6,
 					"file": "wftg2/wftg2_00.sco",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6664,
+						"buffer_size": 6731,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1568,
-								1568
+								4708,
+								4708
 							]
 						],
 						"settings":
@@ -1047,14 +1066,70 @@
 							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1680.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wftg2/wftg2_scale.sco",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								570,
+								570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
+					"file": "wftg2/wftg2_scale2.sco",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2160,
+								2160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CsoundSyntax/Csound.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1275.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
 					"file": "notepad/tones/tones.sco",
 					"semi_transient": false,
 					"settings":
@@ -1066,8 +1141,8 @@
 						"selection":
 						[
 							[
-								469,
-								469
+								503,
+								503
 							]
 						],
 						"settings":
@@ -1078,11 +1153,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 10,
 					"file": "Kim Cascone/bluecube/bluecube.sco",
 					"semi_transient": false,
 					"settings":
@@ -1094,8 +1169,8 @@
 						"selection":
 						[
 							[
-								149,
-								149
+								1312,
+								1312
 							]
 						],
 						"settings":
@@ -1106,7 +1181,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -1114,7 +1189,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 26.0
 	},
 	"input":
 	{
