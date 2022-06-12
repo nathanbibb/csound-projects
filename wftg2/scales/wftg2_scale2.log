@@ -1,0 +1,203 @@
+orchname:  wftg2.orc
+Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
+sorting score ...
+	... done
+Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
+--Csound version 6.17 (double samples) 2022-04-08
+[commit: none]
+libsndfile-1.0.31
+graphics suppressed, ascii substituted
+sr = 96000.0, kr = 96000.000, ksmps = 1
+0dBFS level = 32768.0, A4 tuning = 440.0
+orch now loaded
+audio buffered in 256 sample-frame blocks
+writing 512-byte blks of shorts to wftg2_scale2.wav (WAV)
+SECTION 1:
+ftable 1:
+ftable 1:	65536 points, scalemax 1.000
+               _--'''''--_
+            _-'           '-_
+          _-                 -_
+         .                     .
+       _'                       '_
+      -                           -
+    _'                             '_
+   .                                 .
+  -                                   -
+_'_____________________________________'________________________________________
+                                        '_                                     .
+                                          .                                   .
+                                           -                                 -
+                                            '_                             _'
+                                              .                           -
+                                               -_                       _'
+                                                 .                     -
+                                                  '.                 .'
+                                                    '._           _-'
+                                                       -.._____.-'
+ftable 2:
+ftable 2:	128 points, scalemax 87.000
+ _
+
+
+
+
+
+
+
+
+_
+________________________________________________________________
+B  0.000 ..  1.000 T  0.800 TT  0.800 M:      0.0
+new alloc for instr 1:
+instr 1:  ifreq = 87.000
+B  1.000 ..  3.000 T  2.400 TT  2.400 M:   9999.6
+new alloc for instr 1:
+instr 1:  ifreq = 99.429
+B  3.000 ..  5.000 T  4.000 TT  4.000 M:  11929.2
+new alloc for instr 1:
+instr 1:  ifreq = 108.750
+B  5.000 ..  7.000 T  5.600 TT  5.600 M:  12137.2
+new alloc for instr 1:
+instr 1:  ifreq = 116.000
+B  7.000 ..  9.000 T  7.200 TT  7.200 M:  11865.2
+new alloc for instr 1:
+instr 1:  ifreq = 130.500
+B  9.000 .. 11.000 T  8.800 TT  8.800 M:  12391.7
+instr 1:  ifreq = 145.000
+B 11.000 .. 13.000 T 10.400 TT 10.400 M:  11737.0
+instr 1:  ifreq = 152.250
+B 13.000 .. 15.000 T 12.000 TT 12.000 M:  11556.0
+instr 1:  ifreq = 174.000
+B 15.000 .. 19.000 T 15.200 TT 15.200 M:  12260.9
+instr 1:  ifreq = 87.000
+B 19.000 .. 21.000 T 16.800 TT 16.800 M:  10407.0
+instr 1:  ifreq = 99.429
+B 21.000 .. 23.000 T 18.400 TT 18.400 M:  11849.3
+instr 1:  ifreq = 104.400
+B 23.000 .. 25.000 T 20.000 TT 20.000 M:  12412.2
+instr 1:  ifreq = 116.000
+B 25.000 .. 27.000 T 21.600 TT 21.600 M:  11658.7
+instr 1:  ifreq = 130.500
+B 27.000 .. 29.000 T 23.200 TT 23.200 M:  12497.8
+instr 1:  ifreq = 139.200
+B 29.000 .. 31.000 T 24.800 TT 24.800 M:  11821.1
+instr 1:  ifreq = 152.250
+B 31.000 .. 33.000 T 26.400 TT 26.400 M:  11519.9
+instr 1:  ifreq = 174.000
+B 33.000 .. 37.000 T 29.600 TT 29.600 M:  11950.6
+instr 1:  ifreq = 174.000
+B 37.000 .. 39.000 T 31.200 TT 31.200 M:  10202.2
+instr 1:  ifreq = 198.857
+B 39.000 .. 41.000 T 32.800 TT 32.800 M:  11910.3
+instr 1:  ifreq = 217.500
+B 41.000 .. 43.000 T 34.400 TT 34.400 M:  12123.9
+instr 1:  ifreq = 232.000
+B 43.000 .. 45.000 T 36.000 TT 36.000 M:  12092.0
+instr 1:  ifreq = 261.000
+B 45.000 .. 47.000 T 37.600 TT 37.600 M:  12222.1
+instr 1:  ifreq = 290.000
+B 47.000 .. 49.000 T 39.200 TT 39.200 M:  12166.1
+instr 1:  ifreq = 304.500
+B 49.000 .. 51.000 T 40.800 TT 40.800 M:  11860.4
+instr 1:  ifreq = 348.000
+B 51.000 .. 55.000 T 44.000 TT 44.000 M:  12218.2
+instr 1:  ifreq = 174.000
+B 55.000 .. 57.000 T 45.600 TT 45.600 M:  10323.8
+instr 1:  ifreq = 198.857
+B 57.000 .. 59.000 T 47.200 TT 47.200 M:  11926.6
+instr 1:  ifreq = 208.800
+B 59.000 .. 61.000 T 48.800 TT 48.800 M:  12319.6
+instr 1:  ifreq = 232.000
+B 61.000 .. 63.000 T 50.400 TT 50.400 M:  12092.8
+instr 1:  ifreq = 261.000
+B 63.000 .. 65.000 T 52.000 TT 52.000 M:  12496.5
+instr 1:  ifreq = 278.400
+B 65.000 .. 67.000 T 53.600 TT 53.600 M:  12394.0
+instr 1:  ifreq = 304.500
+B 67.000 .. 69.000 T 55.200 TT 55.200 M:  12056.8
+instr 1:  ifreq = 348.000
+B 69.000 .. 71.000 T 56.800 TT 56.800 M:  12327.3
+instr 1:  ifreq = 87.000
+B 71.000 .. 72.000 T 57.600 TT 57.600 M:  12027.4
+new alloc for instr 1:
+instr 1:  ifreq = 99.429
+B 72.000 .. 73.000 T 58.400 TT 58.400 M:  15226.0
+instr 1:  ifreq = 108.750
+B 73.000 .. 74.000 T 59.200 TT 59.200 M:  16328.2
+new alloc for instr 1:
+instr 1:  ifreq = 116.000
+B 74.000 .. 75.000 T 60.000 TT 60.000 M:  15285.1
+instr 1:  ifreq = 130.500
+B 75.000 .. 76.000 T 60.800 TT 60.800 M:  16595.6
+new alloc for instr 1:
+instr 1:  ifreq = 145.000
+B 76.000 .. 77.000 T 61.600 TT 61.600 M:  16796.1
+instr 1:  ifreq = 152.250
+B 77.000 .. 78.000 T 62.400 TT 62.400 M:  14730.4
+new alloc for instr 1:
+instr 1:  ifreq = 174.000
+B 78.000 .. 80.000 T 64.000 TT 64.000 M:  16115.2
+instr 1:  ifreq = 87.000
+B 80.000 .. 81.000 T 64.800 TT 64.800 M:  12315.5
+instr 1:  ifreq = 99.429
+B 81.000 .. 82.000 T 65.600 TT 65.600 M:  14921.6
+instr 1:  ifreq = 104.400
+B 82.000 .. 83.000 T 66.400 TT 66.400 M:  14759.9
+instr 1:  ifreq = 116.000
+B 83.000 .. 84.000 T 67.200 TT 67.200 M:  15480.1
+instr 1:  ifreq = 130.500
+B 84.000 .. 85.000 T 68.000 TT 68.000 M:  15353.0
+instr 1:  ifreq = 139.200
+B 85.000 .. 86.000 T 68.800 TT 68.800 M:  15601.7
+instr 1:  ifreq = 152.250
+B 86.000 .. 87.000 T 69.600 TT 69.600 M:  16160.2
+instr 1:  ifreq = 174.000
+B 87.000 .. 89.000 T 71.200 TT 71.200 M:  15174.1
+instr 1:  ifreq = 174.000
+B 89.000 .. 90.000 T 72.000 TT 72.000 M:   9572.2
+instr 1:  ifreq = 198.857
+B 90.000 .. 91.000 T 72.800 TT 72.800 M:  14178.6
+instr 1:  ifreq = 217.500
+B 91.000 .. 92.000 T 73.600 TT 73.600 M:  15756.8
+instr 1:  ifreq = 232.000
+B 92.000 .. 93.000 T 74.400 TT 74.400 M:  16280.6
+instr 1:  ifreq = 261.000
+B 93.000 .. 94.000 T 75.200 TT 75.200 M:  17427.3
+instr 1:  ifreq = 290.000
+B 94.000 .. 95.000 T 76.000 TT 76.000 M:  14935.4
+instr 1:  ifreq = 304.500
+B 95.000 .. 96.000 T 76.800 TT 76.800 M:  15196.8
+instr 1:  ifreq = 348.000
+B 96.000 .. 98.000 T 78.400 TT 78.400 M:  16525.9
+instr 1:  ifreq = 174.000
+B 98.000 .. 99.000 T 79.200 TT 79.200 M:  13303.8
+instr 1:  ifreq = 198.857
+B 99.000 ..100.000 T 80.000 TT 80.000 M:  15156.5
+instr 1:  ifreq = 208.800
+B100.000 ..101.000 T 80.800 TT 80.800 M:  16574.6
+instr 1:  ifreq = 232.000
+B101.000 ..102.000 T 81.600 TT 81.600 M:  15277.0
+instr 1:  ifreq = 261.000
+B102.000 ..103.000 T 82.400 TT 82.400 M:  17925.9
+instr 1:  ifreq = 278.400
+B103.000 ..104.000 T 83.200 TT 83.200 M:  16973.0
+instr 1:  ifreq = 304.500
+B104.000 ..105.000 T 84.000 TT 84.000 M:  16245.7
+instr 1:  ifreq = 348.000
+B105.000 ..106.000 T 84.800 TT 84.800 M:  16766.4
+B106.000 ..108.000 T 86.400 TT 86.400 M:   7477.0
+B108.000 ..109.000 T 87.200 TT 87.200 M:   1568.5
+B109.000 ..110.000 T 88.000 TT 88.000 M:    719.7
+B110.000 ..111.000 T 88.800 TT 88.800 M:    308.4
+B111.000 ..112.000 T 89.600 TT 89.600 M:    134.3
+B112.000 ..113.000 T 90.400 TT 90.400 M:     54.3
+B113.000 ..114.000 T 91.200 TT 91.200 M:     20.2
+B114.000 ..115.000 T 92.000 TT 92.000 M:      5.4
+Score finished in csoundPerform().
+inactive allocs returned to freespace
+end of score.		   overall amps:  17925.9
+	   overall samples out of range:        0
+0 errors in performance
+Elapsed time at end of performance: real: 2.318s, CPU: 2.318s
+256 512 sample blks of shorts written to wftg2_scale2.wav (WAV)
