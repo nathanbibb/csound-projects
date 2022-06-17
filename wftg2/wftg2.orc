@@ -21,9 +21,30 @@ nchnls  =       1
 instr 1
     ; This is the bell-like envelope - convex attack, concave delay
     ;var    opcode  ia      idur    itype   ib  idur2   itype2      ic
-    kenv    transeg 1,      0.04,   -10,    p5, p3,     -1*p3,      1
+    kenv    transeg 0,      0.04,   -10,    p5, p3,     -1*p3,      0
 
-    ; This calls the tuning frequency from the a table in the sco file
+    ; This calls the tuning frequency from the table in the sco file
+    ;var    opcode  index   table
+    ifreq   cpstuni p4,     p7
+    print ifreq
+
+    ; Sine wave generator
+    ;var    opcode  amp     freq    ftable
+    a1      oscil   kenv,   ifreq,     p6
+    out     a1
+endin
+
+;=============================================================================
+; INSTUMENT 2 - sine wave with a slightly concave envelope for long tones
+;=============================================================================
+
+
+instr 2
+    ; This is a slight concave envelope - concave attack, concave delay
+    ;var    opcode  ia  idur     itype   ib  idur2   itype2  ic  idur3   itype3  id
+    kenv    transeg 0,  p3*0.2,  2,      p5, p3*0.6, 0,      p5, p3*0.2, -2,      0
+
+    ; This calls the tuning frequency from the table in the sco file
     ;var    opcode  index   table
     ifreq   cpstuni p4,     p7
     print ifreq
