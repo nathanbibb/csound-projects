@@ -1,0 +1,10 @@
+csound -W -o wftg2_01_stem01.wav -O wftg2_01_stem01.log ../../wftg2.orc wftg2_01_stem01.sco &&
+csound -W -o wftg2_01_stem02.wav -O wftg2_01_stem02.log ../../wftg2.orc wftg2_01_stem02.sco &&
+csound -W -o wftg2_01_stem03.wav -O wftg2_01_stem03.log ../../wftg2.orc wftg2_01_stem03.sco &&
+csound -W -o wftg2_01_stem04.wav -O wftg2_01_stem04.log ../../wftg2.orc wftg2_01_stem04.sco &&
+csound -W -o wftg2_01_stem05.wav -O wftg2_01_stem05.log ../../wftg2.orc wftg2_01_stem05.sco &&
+csound -W -o wftg2_01_stem06.wav -O wftg2_01_stem06.log ../../wftg2.orc wftg2_01_stem06.sco &&
+csound -W -o wftg2_01_stem07.wav -O wftg2_01_stem07.log ../../wftg2.orc wftg2_01_stem07.sco &&
+csound -W -o wftg2_01_stem08.wav -O wftg2_01_stem08.log ../../wftg2.orc wftg2_01_stem08.sco &&
+csound -W -o wftg2_01_stem09.wav -O wftg2_01_stem09.log ../../wftg2.orc wftg2_01_stem09.sco &&
+csound -W -o wftg2_01_stem10.wav -O wftg2_01_stem10.log ../../wftg2.orc wftg2_01_stem10.sco

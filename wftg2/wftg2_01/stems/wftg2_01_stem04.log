@@ -1,0 +1,61 @@
+orchname:  ../../wftg2.orc
+Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
+sorting score ...
+	... done
+Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
+--Csound version 6.17 (double samples) 2022-04-08
+[commit: none]
+libsndfile-1.0.31
+graphics suppressed, ascii substituted
+sr = 96000.0, kr = 96000.000, ksmps = 1
+0dBFS level = 32768.0, A4 tuning = 440.0
+orch now loaded
+audio buffered in 256 sample-frame blocks
+writing 512-byte blks of shorts to wftg2_01_stem04.wav (WAV)
+SECTION 1:
+ftable 1:
+ftable 1:	65536 points, scalemax 1.000
+               _--'''''--_
+            _-'           '-_
+          _-                 -_
+         .                     .
+       _'                       '_
+      -                           -
+    _'                             '_
+   .                                 .
+  -                                   -
+_'_____________________________________'________________________________________
+                                        '_                                     .
+                                          .                                   .
+                                           -                                 -
+                                            '_                             _'
+                                              .                           -
+                                               -_                       _'
+                                                 .                     -
+                                                  '.                 .'
+                                                    '._           _-'
+                                                       -.._____.-'
+ftable 2:
+ftable 2:	128 points, scalemax 87.000
+ _
+
+
+
+
+
+
+
+
+
+-_______________________________________________________________
+B  0.000 .. 34.000 T 27.200 TT 27.200 M:      0.0
+new alloc for instr 2:
+instr 2:  ifreq = 130.500
+B 34.000 ..154.000 T123.200 TT123.200 M:   2000.0
+Score finished in csoundPerform().
+inactive allocs returned to freespace
+end of score.		   overall amps:   2000.0
+	   overall samples out of range:        0
+0 errors in performance
+Elapsed time at end of performance: real: 1.382s, CPU: 1.379s
+256 512 sample blks of shorts written to wftg2_01_stem04.wav (WAV)
