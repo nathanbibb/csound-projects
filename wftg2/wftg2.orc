@@ -54,3 +54,20 @@ instr 2
     a1      oscil   kenv,   ifreq,     p6
     out     a1
 endin
+
+;=============================================================================
+; INSTUMENT 3 - sine wave with no fades for plain tones
+;=============================================================================
+
+
+instr 3
+    ; This calls the tuning frequency from the table in the sco file
+    ;var    opcode  index   table
+    ifreq   cpstuni p4,     p7
+    print ifreq
+
+    ; Sine wave generator
+    ;var    opcode  amp     freq    ftable
+    a1      oscil   p5,     ifreq,     p6
+    out     a1
+endin
