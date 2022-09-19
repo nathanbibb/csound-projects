@@ -10,7 +10,7 @@
 ;   wftg2_00.sco
 ;=============================================================================
 
-; tempo = 1 beat = 0.667 seconds
+; tempo = 1 beat = 0.8 seconds
 t 0 75
 
 ; F1: Sine Wave table
