@@ -11,7 +11,7 @@ sr = 96000.0, kr = 96000.000, ksmps = 1
 0dBFS level = 32768.0, A4 tuning = 440.0
 orch now loaded
 audio buffered in 256 sample-frame blocks
-writing 512-byte blks of shorts to wftg2_02.wav (WAV)
+writing 512-byte blks of shorts to wftg2_scale_02.wav (WAV)
 SECTION 1:
 ftable 1:
 ftable 1:	65536 points, scalemax 1.000
@@ -36,7 +36,7 @@ _'_____________________________________'________________________________________
                                                     '._           _-'
                                                        -.._____.-'
 ftable 2:
-ftable 2:	128 points, scalemax 261.630
+ftable 2:	128 points, scalemax 87.000
  _
 
 
@@ -47,47 +47,39 @@ ftable 2:	128 points, scalemax 261.630
 
 
 
-._______________________________________________________________
-B  0.000 ..  1.000 T  0.667 TT  0.667 M:      0.0
+-_______________________________________________________________
+B  0.000 ..  1.000 T  0.800 TT  0.800 M:      0.0
 new alloc for instr 1:
-instr 1:  ifreq = 130.815
-B  1.000 ..  4.000 T  2.667 TT  2.667 M:   9999.3
+instr 1:  ifreq = 87.000
+B  1.000 ..  2.000 T  1.600 TT  1.600 M:   9999.6
 new alloc for instr 1:
-instr 1:  ifreq = 246.979
-B  4.000 ..  4.250 T  2.833 TT  2.833 M:  11355.6
+instr 1:  ifreq = 97.875
+B  2.000 ..  3.000 T  2.400 TT  2.400 M:  14277.7
 new alloc for instr 1:
-instr 1:  ifreq = 739.890
-B  4.250 ..  7.500 T  5.000 TT  5.000 M:  14628.5
+instr 1:  ifreq = 104.400
+B  3.000 ..  4.000 T  3.200 TT  3.200 M:  14823.4
 new alloc for instr 1:
-instr 1:  ifreq = 698.552
-B  7.500 .. 12.500 T  8.333 TT  8.333 M:   6478.9
+instr 1:  ifreq = 130.500
+B  4.000 ..  5.000 T  4.000 TT  4.000 M:  17063.7
 new alloc for instr 1:
-instr 1:  ifreq = 130.815
-B 12.500 .. 15.500 T 10.333 TT 10.333 M:  10167.4
+instr 1:  ifreq = 145.029
+B  5.000 ..  6.000 T  4.800 TT  4.800 M:  16521.4
 new alloc for instr 1:
-instr 1:  ifreq = 246.979
-B 15.500 .. 19.000 T 12.667 TT 12.667 M:  11355.1
+instr 1:  ifreq = 163.125
+B  6.000 ..  7.000 T  5.600 TT  5.600 M:  15807.4
 new alloc for instr 1:
-instr 1:  ifreq = 698.552
-B 19.000 .. 25.000 T 16.667 TT 16.667 M:   6064.1
-instr 1:  ifreq = 130.815
-B 25.000 .. 28.000 T 18.667 TT 18.667 M:  10103.2
-instr 1:  ifreq = 246.979
-B 28.000 .. 28.500 T 19.000 TT 19.000 M:  11344.7
-instr 1:  ifreq = 739.890
-B 28.500 .. 32.250 T 21.500 TT 21.500 M:  10244.6
-instr 1:  ifreq = 698.552
-B 32.250 .. 32.500 T 21.667 TT 21.667 M:   6067.0
-B 32.500 .. 35.500 T 23.667 TT 23.667 M:   5192.3
-B 35.500 .. 39.000 T 26.000 TT 26.000 M:    694.4
-B 39.000 .. 45.000 T 30.000 TT 30.000 M:     69.2
-B 45.000 .. 48.000 T 32.000 TT 32.000 M:      1.2
-B 48.000 .. 48.500 T 32.333 TT 32.333 M:      0.1
-B 48.500 .. 52.250 T 34.833 TT 34.833 M:      0.1
+instr 1:  ifreq = 174.000
+B  7.000 .. 11.000 T  8.800 TT  8.800 M:  15523.2
+B 11.000 .. 12.000 T  9.600 TT  9.600 M:    606.1
+B 12.000 .. 13.000 T 10.400 TT 10.400 M:    309.9
+B 13.000 .. 14.000 T 11.200 TT 11.200 M:    128.8
+B 14.000 .. 15.000 T 12.000 TT 12.000 M:     48.7
+B 15.000 .. 16.000 T 12.800 TT 12.800 M:     17.5
+B 16.000 .. 17.000 T 13.600 TT 13.600 M:      4.4
 Score finished in csoundPerform().
 inactive allocs returned to freespace
-end of score.		   overall amps:  14628.5
+end of score.		   overall amps:  17063.7
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 0.745s, CPU: 0.745s
-256 512 sample blks of shorts written to wftg2_02.wav (WAV)
+Elapsed time at end of performance: real: 0.288s, CPU: 0.287s
+256 512 sample blks of shorts written to wftg2_scale_02.wav (WAV)

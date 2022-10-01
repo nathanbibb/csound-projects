@@ -17,12 +17,12 @@ t 0 75
 ;f  time    size    GEN     h1
 f1  0       65536   10      1
 
-; F2: Scale 2: 1/1 - 9/8 - 6/5 - 9/7 - 5/3 - 15/8
+; F2: Scale 1: 1/1 - 9/8 - 6/5 - 9/7 - 5/3 - 15/8
 ;f      time    size    GEN     grades  interv  freq    key
 f2      0       128     -2      6       2       87      13        \
-;prime  M2      m3      M3~             M6              M7      8va
-;1/1    9/8     6/5     9/7             5/3             15/8    2/1
-1.000   1.125   1.200   1.285714286     1.666666667     1.875   2.00
+;prime  M2      m3      M3~     M6      M7      8va
+;1/1    9/8     6/5     9/7     5/3     15/8    2/1
+1.000   1.125   1.200   1.286   1.667   1.875   2.000
 
 ; Left Hand
 ;inst   start   dur     freq    amp     wavet   freqt
