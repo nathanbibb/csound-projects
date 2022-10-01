@@ -1,0 +1,1 @@
+csound -W -o wftg2_00_scale.wav -O wftg2_00_scale.log ../wftg2.orc wftg2_00_scale.sco

@@ -20,7 +20,7 @@ f1  0       65536   10      1
 ;f      time    size    GEN     grades  interv  freq    key
 f2      0       128     -2      6       2       87      13        \
 ;1/1    9/8     6/5     9/7             5/3             15/8    2/1
-1.000   1.125   1.200   1.285714286     1.666666667     1.875   2.00
+1/1     9/8     6/5     9/7             5/3             15/8    2/1
 
 ; Left Hand
 ;inst   start   dur     freq    amp     wavet   freqt
