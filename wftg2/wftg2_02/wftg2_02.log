@@ -66,28 +66,40 @@ instr 1:  ifreq = 130.815
 B 12.500 .. 15.500 T 10.333 TT 10.333 M:  10167.4
 new alloc for instr 1:
 instr 1:  ifreq = 246.979
-B 15.500 .. 19.000 T 12.667 TT 12.667 M:  11355.1
+B 15.500 .. 15.750 T 10.500 TT 10.500 M:  11355.1
+new alloc for instr 1:
+instr 1:  ifreq = 659.308
+B 15.750 .. 19.250 T 12.833 TT 12.833 M:  14613.0
 new alloc for instr 1:
 instr 1:  ifreq = 698.552
-B 19.000 .. 25.000 T 16.667 TT 16.667 M:   6064.1
+B 19.250 .. 25.250 T 16.833 TT 16.833 M:   6130.8
 instr 1:  ifreq = 130.815
-B 25.000 .. 28.000 T 18.667 TT 18.667 M:  10103.2
+B 25.250 .. 28.250 T 18.833 TT 18.833 M:  10110.9
 instr 1:  ifreq = 246.979
-B 28.000 .. 28.500 T 19.000 TT 19.000 M:  11344.7
+B 28.250 .. 28.500 T 19.000 TT 19.000 M:  11343.1
 instr 1:  ifreq = 739.890
-B 28.500 .. 32.250 T 21.500 TT 21.500 M:  10244.6
+B 28.500 .. 31.750 T 21.167 TT 21.167 M:  14631.1
 instr 1:  ifreq = 698.552
-B 32.250 .. 32.500 T 21.667 TT 21.667 M:   6067.0
-B 32.500 .. 35.500 T 23.667 TT 23.667 M:   5192.3
-B 35.500 .. 39.000 T 26.000 TT 26.000 M:    694.4
-B 39.000 .. 45.000 T 30.000 TT 30.000 M:     69.2
-B 45.000 .. 48.000 T 32.000 TT 32.000 M:      1.2
-B 48.000 .. 48.500 T 32.333 TT 32.333 M:      0.1
-B 48.500 .. 52.250 T 34.833 TT 34.833 M:      0.1
+B 31.750 .. 36.750 T 24.500 TT 24.500 M:   6478.7
+instr 1:  ifreq = 130.815
+B 36.750 .. 39.750 T 26.500 TT 26.500 M:  10167.4
+instr 1:  ifreq = 246.979
+B 39.750 .. 40.000 T 26.667 TT 26.667 M:  11355.1
+instr 1:  ifreq = 698.552
+B 40.000 .. 43.500 T 29.000 TT 29.000 M:  14323.4
+instr 1:  ifreq = 739.890
+B 43.500 .. 45.250 T 30.167 TT 30.167 M:   6287.2
+B 45.250 .. 48.250 T 32.167 TT 32.167 M:   2013.1
+B 48.250 .. 48.500 T 32.333 TT 32.333 M:    276.0
+B 48.500 .. 51.750 T 34.500 TT 34.500 M:    227.4
+B 51.750 .. 56.750 T 37.833 TT 37.833 M:     25.1
+B 56.750 .. 59.750 T 39.833 TT 39.833 M:      0.9
+B 59.750 .. 60.000 T 40.000 TT 40.000 M:      0.1
+B 60.000 .. 63.500 T 42.333 TT 42.333 M:      0.1
 Score finished in csoundPerform().
 inactive allocs returned to freespace
-end of score.		   overall amps:  14628.5
+end of score.		   overall amps:  14631.1
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 0.745s, CPU: 0.745s
+Elapsed time at end of performance: real: 0.954s, CPU: 0.954s
 256 512 sample blks of shorts written to wftg2_02.wav (WAV)
