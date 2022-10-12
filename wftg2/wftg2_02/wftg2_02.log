@@ -1,6 +1,21 @@
 orchname:  ../wftg2.orc
 Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
 sorting score ...
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
 	... done
 Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
 --Csound version 6.17 (double samples) 2022-04-08
@@ -51,45 +66,55 @@ ftable 2:	128 points, scalemax 261.630
 B  0.000 ..  1.000 T  0.667 TT  0.667 M:      0.0
 new alloc for instr 1:
 instr 1:  ifreq = 130.815
-B  1.000 ..  4.000 T  2.667 TT  2.667 M:   9999.3
+new alloc for instr 5:
+instr 5:  ifreq = 130.815
+B  1.000 ..  4.000 T  2.667 TT  2.667 M:   9999.8
 new alloc for instr 1:
 instr 1:  ifreq = 246.979
-B  4.000 ..  4.250 T  2.833 TT  2.833 M:  11355.6
+B  4.000 ..  4.250 T  2.833 TT  2.833 M:  11450.6
 new alloc for instr 1:
 instr 1:  ifreq = 739.890
-B  4.250 ..  7.500 T  5.000 TT  5.000 M:  14628.5
+B  4.250 ..  7.500 T  5.000 TT  5.000 M:  14745.3
 new alloc for instr 1:
 instr 1:  ifreq = 698.552
-B  7.500 .. 12.500 T  8.333 TT  8.333 M:   6478.9
+B  7.500 .. 12.500 T  8.333 TT  8.333 M:  10657.7
 new alloc for instr 1:
 instr 1:  ifreq = 130.815
-B 12.500 .. 15.500 T 10.333 TT 10.333 M:  10167.4
+instr 5:  ifreq = 130.815
+B 12.500 .. 15.500 T 10.333 TT 10.333 M:  10167.9
 new alloc for instr 1:
 instr 1:  ifreq = 246.979
-B 15.500 .. 15.750 T 10.500 TT 10.500 M:  11355.1
+B 15.500 .. 15.750 T 10.500 TT 10.500 M:  11450.1
 new alloc for instr 1:
 instr 1:  ifreq = 659.308
-B 15.750 .. 19.250 T 12.833 TT 12.833 M:  14613.0
+B 15.750 .. 19.250 T 12.833 TT 12.833 M:  14729.7
 new alloc for instr 1:
 instr 1:  ifreq = 698.552
-B 19.250 .. 25.250 T 16.833 TT 16.833 M:   6130.8
+new alloc for instr 5:
+instr 5:  ifreq = 698.552
+B 19.250 .. 25.250 T 16.833 TT 16.833 M:  10884.3
 instr 1:  ifreq = 130.815
-B 25.250 .. 28.250 T 18.833 TT 18.833 M:  10110.9
+instr 5:  ifreq = 130.815
+B 25.250 .. 28.250 T 18.833 TT 18.833 M:  10552.8
 instr 1:  ifreq = 246.979
-B 28.250 .. 28.500 T 19.000 TT 19.000 M:  11343.1
+new alloc for instr 5:
+instr 5:  ifreq = 246.979
+B 28.250 .. 28.500 T 19.000 TT 19.000 M:  14928.9
 instr 1:  ifreq = 739.890
-B 28.500 .. 31.750 T 21.167 TT 21.167 M:  14631.1
+B 28.500 .. 31.750 T 21.167 TT 21.167 M:  18798.3
 instr 1:  ifreq = 698.552
-B 31.750 .. 36.750 T 24.500 TT 24.500 M:   6478.7
+B 31.750 .. 36.750 T 24.500 TT 24.500 M:  11373.6
 instr 1:  ifreq = 130.815
-B 36.750 .. 39.750 T 26.500 TT 26.500 M:  10167.4
+instr 5:  ifreq = 130.815
+B 36.750 .. 39.750 T 26.500 TT 26.500 M:  15362.3
 instr 1:  ifreq = 246.979
-B 39.750 .. 40.000 T 26.667 TT 26.667 M:  11355.1
+B 39.750 .. 40.000 T 26.667 TT 26.667 M:  11450.1
 instr 1:  ifreq = 698.552
-B 40.000 .. 43.500 T 29.000 TT 29.000 M:  14323.4
+B 40.000 .. 43.500 T 29.000 TT 29.000 M:  14438.0
 instr 1:  ifreq = 739.890
-B 43.500 .. 45.250 T 30.167 TT 30.167 M:   6287.2
-B 45.250 .. 48.250 T 32.167 TT 32.167 M:   2013.1
+B 43.500 .. 45.250 T 30.167 TT 30.167 M:   7644.3
+B 45.250 .. 46.750 T 31.167 TT 31.167 M:  10689.9
+B 46.750 .. 48.250 T 32.167 TT 32.167 M:    734.6
 B 48.250 .. 48.500 T 32.333 TT 32.333 M:    276.0
 B 48.500 .. 51.750 T 34.500 TT 34.500 M:    227.4
 B 51.750 .. 56.750 T 37.833 TT 37.833 M:     25.1
@@ -98,8 +123,8 @@ B 59.750 .. 60.000 T 40.000 TT 40.000 M:      0.1
 B 60.000 .. 63.500 T 42.333 TT 42.333 M:      0.1
 Score finished in csoundPerform().
 inactive allocs returned to freespace
-end of score.		   overall amps:  14631.1
+end of score.		   overall amps:  18798.3
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 0.954s, CPU: 0.954s
+Elapsed time at end of performance: real: 1.158s, CPU: 1.157s
 256 512 sample blks of shorts written to wftg2_02.wav (WAV)

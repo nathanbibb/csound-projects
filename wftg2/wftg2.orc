@@ -93,3 +93,24 @@ instr 4
     out     a1
 endin
 
+;=============================================================================
+; INSTUMENT 5 - reversed sine wave with a bell-like envelope
+;=============================================================================
+
+
+instr 5
+    ; This is the bell-like envelope - convex attack, concave delay
+    ;var    opcode  ia      idur       itype       ib  idur2      itype2    ic
+    kenv    transeg 0,      0.95*p3,   p3,   p5, 0.05*p3,    -10,      0
+
+    ; This calls the tuning frequency from the table in the sco file
+    ;var    opcode  index   table
+    ifreq   cpstuni p4,     p7
+    print ifreq
+
+    ; Sine wave generator
+    ;var    opcode  amp     freq    ftable
+    a1      oscil   kenv,   ifreq,     p6
+    out     a1
+endin
+
