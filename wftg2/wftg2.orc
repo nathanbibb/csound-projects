@@ -94,7 +94,7 @@ instr 4
 endin
 
 ;=============================================================================
-; INSTUMENT 5 - reversed sine wave with a bell-like envelope
+; INSTUMENT 5 - sine wave with a reversed bell-like envelope
 ;=============================================================================
 
 
