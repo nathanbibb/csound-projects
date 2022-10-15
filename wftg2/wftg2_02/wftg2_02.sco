@@ -25,6 +25,17 @@ f2      0       128     -2      12      2       261.63  60        \
 ;A4     P5      m6      M6      m7      M7      8va
 1.414   1.498   1.588   1.682   1.782   1.888   2.000
 
+; F2: Scale 4: 12 tone just intoned ET equivalent
+;f      time    size    GEN     grades  interv  freq    key
+;f2      0       128     -2      12      2       261.63  60        \
+;prime  m2      M2      m3      M3      P4
+;1/1    18/17   9/8     6/5     5/4     4/3
+;1.00    1.059   1.125   1.200   1.250   1.334                     \
+;A4     P5      m6      M6      m7      M7      8va
+;7/5    3/2     8/5     5/3     9/5     15/8
+;1.400   1.500   1.600   1.667   1.800   1.875   2.000
+
+
 ; Stem 1
 ;inst   start   dur     freq    amp     wavet   freqt
 ;p1     p2      p3      p4      p5      p6      p7

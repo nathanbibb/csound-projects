@@ -312,5 +312,5 @@ inactive allocs returned to freespace
 end of score.		   overall amps:  21417.0
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 5.465s, CPU: 5.458s
+Elapsed time at end of performance: real: 6.171s, CPU: 6.151s
 256 512 sample blks of shorts written to wftg2_02.wav (WAV)
