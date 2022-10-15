@@ -1,0 +1,3 @@
+csound -W -o wftg2_02_stem1.wav -O wftg2_02_stem1.log ../../wftg2.orc wftg2_02_stem1.sco &&
+csound -W -o wftg2_02_stem2.wav -O wftg2_02_stem2.log ../../wftg2.orc wftg2_02_stem2.sco &&
+csound -W -o wftg2_02_stem3.wav -O wftg2_02_stem3.log ../../wftg2.orc wftg2_02_stem3.sco

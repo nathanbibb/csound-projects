@@ -1,0 +1,134 @@
+orchname:  ../../wftg2.orc
+Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
+sorting score ...
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+sread: illegal space following ^, zero substituted
+  section 1:  at position 11
+WARNING: Internal error in print_input_backtrace()
+	... done
+Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
+--Csound version 6.17 (double samples) 2022-04-08
+[commit: none]
+libsndfile-1.0.31
+graphics suppressed, ascii substituted
+sr = 96000.0, kr = 96000.000, ksmps = 1
+0dBFS level = 32768.0, A4 tuning = 440.0
+orch now loaded
+audio buffered in 256 sample-frame blocks
+writing 512-byte blks of shorts to wftg2_02_stem2.wav (WAV)
+SECTION 1:
+ftable 1:
+ftable 1:	65536 points, scalemax 1.000
+               _--'''''--_
+            _-'           '-_
+          _-                 -_
+         .                     .
+       _'                       '_
+      -                           -
+    _'                             '_
+   .                                 .
+  -                                   -
+_'_____________________________________'________________________________________
+                                        '_                                     .
+                                          .                                   .
+                                           -                                 -
+                                            '_                             _'
+                                              .                           -
+                                               -_                       _'
+                                                 .                     -
+                                                  '.                 .'
+                                                    '._           _-'
+                                                       -.._____.-'
+ftable 2:
+ftable 2:	128 points, scalemax 261.630
+ _
+
+
+
+
+
+
+
+
+
+._______________________________________________________________
+B  0.000 ..172.000 T114.667 TT114.667 M:      0.0
+new alloc for instr 1:
+instr 1:  ifreq = 277.020
+B172.000 ..175.500 T117.000 TT117.000 M:   9999.6
+new alloc for instr 1:
+instr 1:  ifreq = 261.630
+new alloc for instr 1:
+instr 1:  ifreq = 490.556
+B175.500 ..179.500 T119.667 TT119.667 M:  18428.9
+new alloc for instr 1:
+instr 1:  ifreq = 294.334
+B179.500 ..183.000 T122.000 TT122.000 M:  11144.0
+new alloc for instr 1:
+instr 1:  ifreq = 261.630
+new alloc for instr 1:
+instr 1:  ifreq = 554.040
+B183.000 ..190.000 T126.667 TT126.667 M:  15775.4
+new alloc for instr 1:
+instr 1:  ifreq = 261.630
+B190.000 ..193.500 T129.000 TT129.000 M:  10128.1
+instr 1:  ifreq = 277.020
+new alloc for instr 1:
+instr 1:  ifreq = 490.556
+B193.500 ..197.500 T131.667 TT131.667 M:  18403.9
+instr 1:  ifreq = 294.334
+B197.500 ..201.000 T134.000 TT134.000 M:  11239.5
+instr 1:  ifreq = 277.020
+instr 1:  ifreq = 554.040
+B201.000 ..208.000 T138.667 TT138.667 M:  13898.4
+instr 1:  ifreq = 277.020
+B208.000 ..212.000 T141.333 TT141.333 M:  10022.9
+instr 1:  ifreq = 261.630
+instr 1:  ifreq = 490.556
+B212.000 ..215.500 T143.667 TT143.667 M:  18068.6
+instr 1:  ifreq = 294.334
+B215.500 ..219.500 T146.333 TT146.333 M:  11394.9
+instr 1:  ifreq = 245.278
+instr 1:  ifreq = 554.040
+B219.500 ..226.500 T151.000 TT151.000 M:  15486.0
+instr 1:  ifreq = 261.630
+B226.500 ..230.500 T153.667 TT153.667 M:  10140.4
+instr 1:  ifreq = 277.020
+instr 1:  ifreq = 490.556
+B230.500 ..234.000 T156.000 TT156.000 M:  18002.8
+instr 1:  ifreq = 294.334
+B234.000 ..238.000 T158.667 TT158.667 M:  11424.4
+instr 1:  ifreq = 277.020
+instr 1:  ifreq = 554.040
+B238.000 ..239.500 T159.667 TT159.667 M:  13510.4
+B239.500 ..246.500 T164.333 TT164.333 M:   5169.8
+B246.500 ..250.500 T167.000 TT167.000 M:     49.4
+B250.500 ..254.000 T169.333 TT169.333 M:      3.3
+B254.000 ..258.000 T172.000 TT172.000 M:      0.3
+Score finished in csoundPerform().
+inactive allocs returned to freespace
+end of score.		   overall amps:  18428.9
+	   overall samples out of range:        0
+0 errors in performance
+Elapsed time at end of performance: real: 2.613s, CPU: 2.611s
+256 512 sample blks of shorts written to wftg2_02_stem2.wav (WAV)
