@@ -1,0 +1,73 @@
+orchname:  ../wftg2.orc
+Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
+sorting score ...
+	... done
+Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
+--Csound version 6.17 (double samples) 2022-04-08
+[commit: none]
+libsndfile-1.0.31
+graphics suppressed, ascii substituted
+sr = 96000.0, kr = 96000.000, ksmps = 1
+0dBFS level = 32768.0, A4 tuning = 440.0
+orch now loaded
+audio buffered in 256 sample-frame blocks
+writing 512-byte blks of shorts to wftg2_03.wav (WAV)
+SECTION 1:
+ftable 1:
+ftable 1:	65536 points, scalemax 1.000
+               _--'''''--_
+            _-'           '-_
+          _-                 -_
+         .                     .
+       _'                       '_
+      -                           -
+    _'                             '_
+   .                                 .
+  -                                   -
+_'_____________________________________'________________________________________
+                                        '_                                     .
+                                          .                                   .
+                                           -                                 -
+                                            '_                             _'
+                                              .                           -
+                                               -_                       _'
+                                                 .                     -
+                                                  '.                 .'
+                                                    '._           _-'
+                                                       -.._____.-'
+ftable 2:
+ftable 2:	128 points, scalemax 260.000
+ _
+
+
+
+
+
+
+
+
+
+._______________________________________________________________
+B  0.000 ..  1.000 T  0.667 TT  0.667 M:      0.0
+new alloc for instr 1:
+instr 1:  ifreq = 260.000
+B  1.000 ..  3.000 T  2.000 TT  2.000 M:   9999.7
+new alloc for instr 1:
+instr 1:  ifreq = 520.000
+B  3.000 .. 11.000 T  7.333 TT  7.333 M:  12572.0
+new alloc for instr 1:
+instr 1:  ifreq = 260.000
+B 11.000 .. 13.000 T  8.667 TT  8.667 M:  10035.1
+new alloc for instr 1:
+instr 1:  ifreq = 520.000
+B 13.000 .. 21.000 T 14.000 TT 14.000 M:  12562.8
+B 21.000 .. 23.000 T 15.333 TT 15.333 M:     62.8
+B 23.000 .. 31.000 T 20.667 TT 20.667 M:     16.6
+B 31.000 .. 33.000 T 22.000 TT 22.000 M:      0.0
+Score finished in csoundPerform().
+inactive allocs returned to freespace
+end of score.		   overall amps:  12572.0
+	   overall samples out of range:        0
+0 errors in performance
+Elapsed time at end of performance: real: 0.366s, CPU: 0.366s
+256 512 sample blks of shorts written to wftg2_03.wav (WAV)

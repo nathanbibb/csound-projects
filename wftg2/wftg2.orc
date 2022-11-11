@@ -23,9 +23,15 @@ instr 1
     ;var    opcode  ia      idur    itype   ib  idur2   itype2      ic
     kenv    transeg 0,      0.04,   -10,    p5, p3,     -1*p3,      0
 
+    ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
+    if (p7 == -1) then
+        ifreq = p4
+    else
     ; This calls the tuning frequency from the table in the sco file
-    ;var    opcode  index   table
-    ifreq   cpstuni p4,     p7
+        ;var    opcode  index   table
+        ifreq   cpstuni p4,     p7
+    endif    
+    
     print ifreq
 
     ; Sine wave generator
@@ -44,9 +50,15 @@ instr 2
     ;var    opcode  ia  idur     itype   ib  idur2   itype2  ic  idur3   itype3  id
     kenv    transeg 0,  p3*0.2,  2,      p5, p3*0.6, 0,      p5, p3*0.2, -2,      0
 
+    ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
+    if (p7 == -1) then
+        ifreq = p4
+    else
     ; This calls the tuning frequency from the table in the sco file
-    ;var    opcode  index   table
-    ifreq   cpstuni p4,     p7
+        ;var    opcode  index   table
+        ifreq   cpstuni p4,     p7
+    endif    
+    
     print ifreq
 
     ; Sine wave generator
@@ -61,9 +73,15 @@ endin
 
 
 instr 3
+    ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
+    if (p7 == -1) then
+        ifreq = p4
+    else
     ; This calls the tuning frequency from the table in the sco file
-    ;var    opcode  index   table
-    ifreq   cpstuni p4,     p7
+        ;var    opcode  index   table
+        ifreq   cpstuni p4,     p7
+    endif    
+    
     print ifreq
 
     ; Sine wave generator
@@ -82,9 +100,15 @@ instr 4
     ;var    opcode  ia idur  itype   ib  idur2 itype2  ic idur3 itype3 id  idur4  itype4 ie
     kenv    transeg 0, 0.04, -10,    p5, p3/3,   -1*p3,  p5/50, p3/3,   1*p3, p5, 0.04,  -10,   0
 
+    ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
+    if (p7 == -1) then
+        ifreq = p4
+    else
     ; This calls the tuning frequency from the table in the sco file
-    ;var    opcode  index   table
-    ifreq   cpstuni p4,     p7
+        ;var    opcode  index   table
+        ifreq   cpstuni p4,     p7
+    endif    
+    
     print ifreq
 
     ; Sine wave generator
@@ -103,9 +127,15 @@ instr 5
     ;var    opcode  ia      idur       itype       ib  idur2      itype2    ic
     kenv    transeg 0,      0.95*p3,   p3,   p5, 0.05*p3,    -10,      0
 
+    ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
+    if (p7 == -1) then
+        ifreq = p4
+    else
     ; This calls the tuning frequency from the table in the sco file
-    ;var    opcode  index   table
-    ifreq   cpstuni p4,     p7
+        ;var    opcode  index   table
+        ifreq   cpstuni p4,     p7
+    endif    
+    
     print ifreq
 
     ; Sine wave generator
