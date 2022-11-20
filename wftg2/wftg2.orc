@@ -26,13 +26,30 @@ instr 1
     ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
     if (p7 == -1) then
         ifreq = p4
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ifreq2 = p8
+        endif
     else
     ; This calls the tuning frequency from the table in the sco file
         ;var    opcode  index   table
         ifreq   cpstuni p4,     p7
-    endif    
-    
-    print ifreq
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ;var    opcode  index   table
+            ifreq2 cpstuni  p8,     p7
+        endif
+    endif 
+
+    ; Sliding tone scenario
+    if (p8 > 0) then
+        ;var    opcode  freq1   dur     freq2
+        kfreq   line    ifreq,  p3,     ifreq2
+    ; Single frequency tone
+    else
+        ;var    freq
+        kfreq = ifreq
+    endif
 
     ; Sine wave generator
     ;var    opcode  amp     freq    ftable
@@ -53,13 +70,30 @@ instr 2
     ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
     if (p7 == -1) then
         ifreq = p4
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ifreq2 = p8
+        endif
     else
     ; This calls the tuning frequency from the table in the sco file
         ;var    opcode  index   table
         ifreq   cpstuni p4,     p7
-    endif    
-    
-    print ifreq
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ;var    opcode  index   table
+            ifreq2 cpstuni  p8,     p7
+        endif
+    endif 
+
+    ; Sliding tone scenario
+    if (p8 > 0) then
+        ;var    opcode  freq1   dur     freq2
+        kfreq   line    ifreq,  p3,     ifreq2
+    ; Single frequency tone
+    else
+        ;var    freq
+        kfreq = ifreq
+    endif
 
     ; Sine wave generator
     ;var    opcode  amp     freq    ftable
@@ -73,16 +107,34 @@ endin
 
 
 instr 3
+
     ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
     if (p7 == -1) then
         ifreq = p4
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ifreq2 = p8
+        endif
     else
     ; This calls the tuning frequency from the table in the sco file
         ;var    opcode  index   table
         ifreq   cpstuni p4,     p7
-    endif    
-    
-    print ifreq
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ;var    opcode  index   table
+            ifreq2 cpstuni  p8,     p7
+        endif
+    endif 
+
+    ; Sliding tone scenario
+    if (p8 > 0) then
+        ;var    opcode  freq1   dur     freq2
+        kfreq   line    ifreq,  p3,     ifreq2
+    ; Single frequency tone
+    else
+        ;var    freq
+        kfreq = ifreq
+    endif
 
     ; Sine wave generator
     ;var    opcode  amp     freq    ftable
@@ -103,13 +155,30 @@ instr 4
     ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
     if (p7 == -1) then
         ifreq = p4
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ifreq2 = p8
+        endif
     else
     ; This calls the tuning frequency from the table in the sco file
         ;var    opcode  index   table
         ifreq   cpstuni p4,     p7
-    endif    
-    
-    print ifreq
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ;var    opcode  index   table
+            ifreq2 cpstuni  p8,     p7
+        endif
+    endif 
+
+    ; Sliding tone scenario
+    if (p8 > 0) then
+        ;var    opcode  freq1   dur     freq2
+        kfreq   line    ifreq,  p3,     ifreq2
+    ; Single frequency tone
+    else
+        ;var    freq
+        kfreq = ifreq
+    endif
 
     ; Sine wave generator
     ;var    opcode  amp     freq    ftable
@@ -130,13 +199,30 @@ instr 5
     ; If p7 (Fequency Table) is set to -1, take p4 (Frequency) as Hertz
     if (p7 == -1) then
         ifreq = p4
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ifreq2 = p8
+        endif
     else
     ; This calls the tuning frequency from the table in the sco file
         ;var    opcode  index   table
         ifreq   cpstuni p4,     p7
-    endif    
-    
-    print ifreq
+    ; if p8 (Frequency 2) is set above 0, set the end frequency of the sliding tone
+        if (p8 > 0) then
+            ;var    opcode  index   table
+            ifreq2 cpstuni  p8,     p7
+        endif
+    endif 
+
+    ; Sliding tone scenario
+    if (p8 > 0) then
+        ;var    opcode  freq1   dur     freq2
+        kfreq   line    ifreq,  p3,     ifreq2
+    ; Single frequency tone
+    else
+        ;var    freq
+        kfreq = ifreq
+    endif
 
     ; Sine wave generator
     ;var    opcode  amp     freq    ftable
