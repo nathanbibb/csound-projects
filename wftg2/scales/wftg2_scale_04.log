@@ -50,54 +50,41 @@ ftable 2:	128 points, scalemax 261.630
 ._______________________________________________________________
 B  0.000 ..  1.000 T  0.800 TT  0.800 M:      0.0
 new alloc for instr 1:
-instr 1:  ifreq = 261.630
 B  1.000 ..  2.000 T  1.600 TT  1.600 M:   9999.9
 new alloc for instr 1:
-instr 1:  ifreq = 277.066
-B  2.000 ..  3.000 T  2.400 TT  2.400 M:  14506.5
+B  2.000 ..  3.000 T  2.400 TT  2.400 M:  14508.1
 new alloc for instr 1:
-instr 1:  ifreq = 294.334
-B  3.000 ..  4.000 T  3.200 TT  3.200 M:  14535.5
+B  3.000 ..  4.000 T  3.200 TT  3.200 M:  13773.9
 new alloc for instr 1:
-instr 1:  ifreq = 313.956
-B  4.000 ..  5.000 T  4.000 TT  4.000 M:  14519.9
+B  4.000 ..  5.000 T  4.000 TT  4.000 M:  14625.6
 new alloc for instr 1:
-instr 1:  ifreq = 327.038
-B  5.000 ..  6.000 T  4.800 TT  4.800 M:  15034.0
+B  5.000 ..  6.000 T  4.800 TT  4.800 M:  15631.9
 new alloc for instr 1:
-instr 1:  ifreq = 349.014
-B  6.000 ..  7.000 T  5.600 TT  5.600 M:  15684.5
+B  6.000 ..  7.000 T  5.600 TT  5.600 M:  15446.8
 new alloc for instr 1:
-instr 1:  ifreq = 366.282
-B  7.000 ..  8.000 T  6.400 TT  6.400 M:  16132.5
+B  7.000 ..  8.000 T  6.400 TT  6.400 M:  16023.8
 new alloc for instr 1:
-instr 1:  ifreq = 392.445
-B  8.000 ..  9.000 T  7.200 TT  7.200 M:  16130.3
+B  8.000 ..  9.000 T  7.200 TT  7.200 M:  16285.1
 new alloc for instr 1:
-instr 1:  ifreq = 418.608
-B  9.000 .. 10.000 T  8.000 TT  8.000 M:  17631.7
+B  9.000 .. 10.000 T  8.000 TT  8.000 M:  16069.9
 new alloc for instr 1:
-instr 1:  ifreq = 436.137
-B 10.000 .. 11.000 T  8.800 TT  8.800 M:  16770.4
-instr 1:  ifreq = 470.934
-B 11.000 .. 12.000 T  9.600 TT  9.600 M:  15471.3
-instr 1:  ifreq = 490.556
-B 12.000 .. 13.000 T 10.400 TT 10.400 M:  16276.2
-instr 1:  ifreq = 523.260
-B 13.000 .. 14.000 T 11.200 TT 11.200 M:  16492.3
-B 14.000 .. 15.000 T 12.000 TT 12.000 M:   7664.6
-B 15.000 .. 16.000 T 12.800 TT 12.800 M:   3213.2
-B 16.000 .. 17.000 T 13.600 TT 13.600 M:   1393.3
-B 17.000 .. 18.000 T 14.400 TT 14.400 M:    669.7
-B 18.000 .. 19.000 T 15.200 TT 15.200 M:    280.5
-B 19.000 .. 20.000 T 16.000 TT 16.000 M:    123.6
+B 10.000 .. 11.000 T  8.800 TT  8.800 M:  16126.5
+B 11.000 .. 12.000 T  9.600 TT  9.600 M:  16400.8
+B 12.000 .. 13.000 T 10.400 TT 10.400 M:  15191.8
+B 13.000 .. 14.000 T 11.200 TT 11.200 M:  15379.1
+B 14.000 .. 15.000 T 12.000 TT 12.000 M:   7822.1
+B 15.000 .. 16.000 T 12.800 TT 12.800 M:   3464.6
+B 16.000 .. 17.000 T 13.600 TT 13.600 M:   1501.7
+B 17.000 .. 18.000 T 14.400 TT 14.400 M:    607.5
+B 18.000 .. 19.000 T 15.200 TT 15.200 M:    298.8
+B 19.000 .. 20.000 T 16.000 TT 16.000 M:    129.0
 B 20.000 .. 21.000 T 16.800 TT 16.800 M:     52.8
 B 21.000 .. 22.000 T 17.600 TT 17.600 M:     18.2
 B 22.000 .. 23.000 T 18.400 TT 18.400 M:      4.4
 Score finished in csoundPerform().
 inactive allocs returned to freespace
-end of score.		   overall amps:  17631.7
+end of score.		   overall amps:  16400.8
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 0.473s, CPU: 0.467s
+Elapsed time at end of performance: real: 0.692s, CPU: 0.691s
 256 512 sample blks of shorts written to wftg2_scale_04.wav (WAV)

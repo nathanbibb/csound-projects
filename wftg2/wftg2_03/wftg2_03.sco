@@ -43,13 +43,13 @@ f2      0       128     -2      12      2       260     60      \
 
 ; Temp test Hertz values for notes
 ; Stem 1
-;inst   start   dur     freq    amp     wavet   freqt
-;p1     p2      p3      p4      p5      p6      p7
+;inst   start   dur     freq    amp     wavet   tunet   freq2
+;p1     p2      p3      p4      p5      p6      p7      p8
 ; Tuning Table
-i1      1       20      60      10000   1       2
-i1      3       20      72      10000   1       2
+i1      1       20      60      10000   1       2       -1
+i1      3       20      72      10000   1       2       -1
 
 ; Hertz tuning
-i1      11      20      260     10000   1       -1
-i1      13      20      520     10000   1       -1
+i1      11      20      260     10000   1       -1      -1
+i1      13      20      520     10000   1       -1      -1
 

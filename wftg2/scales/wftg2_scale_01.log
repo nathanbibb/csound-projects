@@ -50,36 +50,36 @@ ftable 2:	128 points, scalemax 87.000
 -_______________________________________________________________
 B  0.000 ..  1.000 T  0.800 TT  0.800 M:      0.0
 new alloc for instr 1:
-instr 1:  ifreq = 87.000
+WARNING: instr 1 uses 8 p-fields but is given 7
 B  1.000 ..  2.000 T  1.600 TT  1.600 M:   9999.6
 new alloc for instr 1:
-instr 1:  ifreq = 97.875
+WARNING: instr 1 uses 8 p-fields but is given 7
 B  2.000 ..  3.000 T  2.400 TT  2.400 M:  14277.7
 new alloc for instr 1:
-instr 1:  ifreq = 104.400
+WARNING: instr 1 uses 8 p-fields but is given 7
 B  3.000 ..  4.000 T  3.200 TT  3.200 M:  14823.4
 new alloc for instr 1:
-instr 1:  ifreq = 111.882
-B  4.000 ..  5.000 T  4.000 TT  4.000 M:  14184.5
+WARNING: instr 1 uses 8 p-fields but is given 7
+B  4.000 ..  5.000 T  4.000 TT  4.000 M:  14147.6
 new alloc for instr 1:
-instr 1:  ifreq = 145.029
-B  5.000 ..  6.000 T  4.800 TT  4.800 M:  15555.4
+WARNING: instr 1 uses 8 p-fields but is given 7
+B  5.000 ..  6.000 T  4.800 TT  4.800 M:  15508.3
 new alloc for instr 1:
-instr 1:  ifreq = 163.125
-B  6.000 ..  7.000 T  5.600 TT  5.600 M:  16409.5
+WARNING: instr 1 uses 8 p-fields but is given 7
+B  6.000 ..  7.000 T  5.600 TT  5.600 M:  16004.2
 new alloc for instr 1:
-instr 1:  ifreq = 174.000
-B  7.000 .. 11.000 T  8.800 TT  8.800 M:  16324.5
-B 11.000 .. 12.000 T  9.600 TT  9.600 M:    615.4
+WARNING: instr 1 uses 8 p-fields but is given 7
+B  7.000 .. 11.000 T  8.800 TT  8.800 M:  15850.5
+B 11.000 .. 12.000 T  9.600 TT  9.600 M:    641.7
 B 12.000 .. 13.000 T 10.400 TT 10.400 M:    304.0
-B 13.000 .. 14.000 T 11.200 TT 11.200 M:    124.8
-B 14.000 .. 15.000 T 12.000 TT 12.000 M:     48.7
+B 13.000 .. 14.000 T 11.200 TT 11.200 M:    124.1
+B 14.000 .. 15.000 T 12.000 TT 12.000 M:     50.0
 B 15.000 .. 16.000 T 12.800 TT 12.800 M:     17.5
 B 16.000 .. 17.000 T 13.600 TT 13.600 M:      4.4
 Score finished in csoundPerform().
 inactive allocs returned to freespace
-end of score.		   overall amps:  16409.5
+end of score.		   overall amps:  16004.2
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 0.290s, CPU: 0.290s
+Elapsed time at end of performance: real: 0.389s, CPU: 0.389s
 256 512 sample blks of shorts written to wftg2_scale_01.wav (WAV)

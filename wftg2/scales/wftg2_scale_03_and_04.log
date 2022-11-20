@@ -48,8 +48,9 @@ ftable 2:	128 points, scalemax 261.630
 
 
 ._______________________________________________________________
-ftable 3:
-ftable 3:	128 points, scalemax 261.630
+WARNING: replacing previous ftable 2
+ftable 2:
+ftable 2:	128 points, scalemax 261.630
  _
 
 
@@ -63,77 +64,81 @@ ftable 3:	128 points, scalemax 261.630
 ._______________________________________________________________
 B  0.000 ..  1.000 T  0.800 TT  0.800 M:      0.0
 new alloc for instr 1:
-instr 1:  ifreq = 261.630
 new alloc for instr 1:
-instr 1:  ifreq = 261.630
-B  1.000 ..  2.000 T  1.600 TT  1.600 M:  19999.8
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B  1.000 ..  2.000 T  1.600 TT  1.600 M:   9999.9
 new alloc for instr 1:
-instr 1:  ifreq = 277.066
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B  2.000 ..  3.000 T  2.400 TT  2.400 M:  14508.1
 new alloc for instr 1:
-instr 1:  ifreq = 277.066
-B  2.000 ..  3.000 T  2.400 TT  2.400 M:  29012.9
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B  3.000 ..  4.000 T  3.200 TT  3.200 M:  13773.9
 new alloc for instr 1:
-instr 1:  ifreq = 294.334
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B  4.000 ..  5.000 T  4.000 TT  4.000 M:  14625.6
 new alloc for instr 1:
-instr 1:  ifreq = 293.549
-B  3.000 ..  4.000 T  3.200 TT  3.200 M:  29198.5
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B  5.000 ..  6.000 T  4.800 TT  4.800 M:  15631.9
 new alloc for instr 1:
-instr 1:  ifreq = 313.956
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B  6.000 ..  7.000 T  5.600 TT  5.600 M:  15446.8
 new alloc for instr 1:
-instr 1:  ifreq = 311.078
-B  4.000 ..  5.000 T  4.000 TT  4.000 M:  28807.1
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B  7.000 ..  8.000 T  6.400 TT  6.400 M:  16023.8
 new alloc for instr 1:
-instr 1:  ifreq = 327.038
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B  8.000 ..  9.000 T  7.200 TT  7.200 M:  16285.1
 new alloc for instr 1:
-instr 1:  ifreq = 329.654
-B  5.000 ..  6.000 T  4.800 TT  4.800 M:  22949.3
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B  9.000 .. 10.000 T  8.000 TT  8.000 M:  16069.9
 new alloc for instr 1:
-instr 1:  ifreq = 349.014
-new alloc for instr 1:
-instr 1:  ifreq = 349.276
-B  6.000 ..  7.000 T  5.600 TT  5.600 M:  27042.3
-new alloc for instr 1:
-instr 1:  ifreq = 366.282
-new alloc for instr 1:
-instr 1:  ifreq = 369.945
-B  7.000 ..  8.000 T  6.400 TT  6.400 M:  28660.7
-new alloc for instr 1:
-instr 1:  ifreq = 392.445
-new alloc for instr 1:
-instr 1:  ifreq = 391.922
-B  8.000 ..  9.000 T  7.200 TT  7.200 M:  28994.8
-new alloc for instr 1:
-instr 1:  ifreq = 418.608
-new alloc for instr 1:
-instr 1:  ifreq = 415.468
-B  9.000 .. 10.000 T  8.000 TT  8.000 M:  24477.4
-new alloc for instr 1:
-instr 1:  ifreq = 436.137
-new alloc for instr 1:
-instr 1:  ifreq = 440.062
-B 10.000 .. 11.000 T  8.800 TT  8.800 M:  24122.6
-instr 1:  ifreq = 470.934
-instr 1:  ifreq = 466.225
-B 11.000 .. 12.000 T  9.600 TT  9.600 M:  27305.1
-instr 1:  ifreq = 490.556
-instr 1:  ifreq = 493.957
-B 12.000 .. 13.000 T 10.400 TT 10.400 M:  28997.8
-instr 1:  ifreq = 523.260
-instr 1:  ifreq = 523.260
-B 13.000 .. 14.000 T 11.200 TT 11.200 M:  28928.1
-B 14.000 .. 15.000 T 12.000 TT 12.000 M:  13396.8
-B 15.000 .. 16.000 T 12.800 TT 12.800 M:   5838.1
-B 16.000 .. 17.000 T 13.600 TT 13.600 M:   2641.5
-B 17.000 .. 18.000 T 14.400 TT 14.400 M:   1213.9
-B 18.000 .. 19.000 T 15.200 TT 15.200 M:    501.2
-B 19.000 .. 20.000 T 16.000 TT 16.000 M:    222.6
-B 20.000 .. 21.000 T 16.800 TT 16.800 M:     97.7
-B 21.000 .. 22.000 T 17.600 TT 17.600 M:     30.9
-B 22.000 .. 23.000 T 18.400 TT 18.400 M:      8.8
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B 10.000 .. 11.000 T  8.800 TT  8.800 M:  16126.5
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B 11.000 .. 12.000 T  9.600 TT  9.600 M:  16400.8
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B 12.000 .. 13.000 T 10.400 TT 10.400 M:  15191.8
+Invalid ftable no. 3.000000PerfError in wrong mode 1
+PERF ERROR in instr 1 (opcode cpstuni) line 36: cpstun: invalid table
+ from file ../wftg2.orc (1),   note aborted
+B 13.000 .. 14.000 T 11.200 TT 11.200 M:  15379.1
+B 14.000 .. 15.000 T 12.000 TT 12.000 M:   7822.1
+B 15.000 .. 16.000 T 12.800 TT 12.800 M:   3464.6
+B 16.000 .. 17.000 T 13.600 TT 13.600 M:   1501.7
+B 17.000 .. 18.000 T 14.400 TT 14.400 M:    607.5
+B 18.000 .. 19.000 T 15.200 TT 15.200 M:    298.8
+B 19.000 .. 20.000 T 16.000 TT 16.000 M:    129.0
+B 20.000 .. 21.000 T 16.800 TT 16.800 M:     52.8
+B 21.000 .. 22.000 T 17.600 TT 17.600 M:     18.2
+B 22.000 .. 23.000 T 18.400 TT 18.400 M:      4.4
 Score finished in csoundPerform().
 inactive allocs returned to freespace
-end of score.		   overall amps:  29198.5
+end of score.		   overall amps:  16400.8
 	   overall samples out of range:        0
-0 errors in performance
-Elapsed time at end of performance: real: 0.816s, CPU: 0.816s
+13 errors in performance
+Elapsed time at end of performance: real: 0.707s, CPU: 0.705s
 256 512 sample blks of shorts written to wftg2_scale_03_and_04.wav (WAV)
