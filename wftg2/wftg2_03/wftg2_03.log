@@ -50,24 +50,18 @@ ftable 2:	128 points, scalemax 260.000
 ._______________________________________________________________
 B  0.000 ..  1.000 T  0.667 TT  0.667 M:      0.0
 new alloc for instr 1:
-instr 1:  ifreq = 260.000
-B  1.000 ..  3.000 T  2.000 TT  2.000 M:   9999.7
-new alloc for instr 1:
-instr 1:  ifreq = 520.000
-B  3.000 .. 11.000 T  7.333 TT  7.333 M:  12572.0
-new alloc for instr 1:
-instr 1:  ifreq = 260.000
-B 11.000 .. 13.000 T  8.667 TT  8.667 M:  10035.1
-new alloc for instr 1:
-instr 1:  ifreq = 520.000
-B 13.000 .. 21.000 T 14.000 TT 14.000 M:  12562.8
-B 21.000 .. 23.000 T 15.333 TT 15.333 M:     62.8
-B 23.000 .. 31.000 T 20.667 TT 20.667 M:     16.6
-B 31.000 .. 33.000 T 22.000 TT 22.000 M:      0.0
+instr 1:  ifreq = 260.000  ifreq2 = 1040.000
+B  1.000 ..  5.000 T  3.333 TT  3.333 M:   9999.9
+new alloc for instr 4:
+B  5.000 .. 21.000 T 14.000 TT 14.000 M:  10683.7
+instr 1:  ifreq = 260.000  ifreq2 = 1040.000
+B 21.000 .. 25.000 T 16.667 TT 16.667 M:   9999.7
+B 25.000 .. 31.000 T 20.667 TT 20.667 M:  10677.1
+B 31.000 .. 35.000 T 23.333 TT 23.333 M:   9994.3
 Score finished in csoundPerform().
 inactive allocs returned to freespace
-end of score.		   overall amps:  12572.0
+end of score.		   overall amps:  10683.7
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 0.366s, CPU: 0.366s
+Elapsed time at end of performance: real: 0.357s, CPU: 0.357s
 256 512 sample blks of shorts written to wftg2_03.wav (WAV)

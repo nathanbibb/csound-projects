@@ -49,65 +49,65 @@ ftable 2:	128 points, scalemax 87.000
 
 -_______________________________________________________________
 new alloc for instr 1:
-instr 1:  ifreq = 652.500
+instr 1:  ifreq = 652.500  ifreq2 = 18.125
 B  0.000 ..  6.000 T  4.800 TT  4.800 M:   2000.0
 new alloc for instr 1:
-instr 1:  ifreq = 835.200
+instr 1:  ifreq = 835.200  ifreq2 = 18.125
 B  6.000 .. 12.000 T  9.600 TT  9.600 M:   2015.5
 new alloc for instr 1:
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B 12.000 .. 23.000 T 18.400 TT 18.400 M:   2016.0
-instr 1:  ifreq = 652.500
+instr 1:  ifreq = 652.500  ifreq2 = 18.125
 B 23.000 .. 29.000 T 23.200 TT 23.200 M:   2000.1
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B 29.000 .. 33.500 T 26.800 TT 26.800 M:   2014.4
-instr 1:  ifreq = 522.000
+instr 1:  ifreq = 522.000  ifreq2 = 18.125
 B 33.500 .. 34.000 T 27.200 TT 27.200 M:   2053.4
 new alloc for instr 1:
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B 34.000 .. 44.000 T 35.200 TT 35.200 M:   3378.4
-instr 1:  ifreq = 652.500
+instr 1:  ifreq = 652.500  ifreq2 = 18.125
 B 44.000 .. 50.000 T 40.000 TT 40.000 M:   2000.2
-instr 1:  ifreq = 835.200
+instr 1:  ifreq = 835.200  ifreq2 = 18.125
 B 50.000 .. 56.000 T 44.800 TT 44.800 M:   2015.5
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B 56.000 .. 67.000 T 53.600 TT 53.600 M:   2016.0
-instr 1:  ifreq = 652.500
+instr 1:  ifreq = 652.500  ifreq2 = 18.125
 B 67.000 .. 73.000 T 58.400 TT 58.400 M:   2000.1
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B 73.000 .. 77.500 T 62.000 TT 62.000 M:   2014.4
-instr 1:  ifreq = 522.000
+instr 1:  ifreq = 522.000  ifreq2 = 18.125
 B 77.500 .. 78.000 T 62.400 TT 62.400 M:   2053.4
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B 78.000 .. 87.000 T 69.600 TT 69.600 M:   3378.4
-instr 1:  ifreq = 652.500
+instr 1:  ifreq = 652.500  ifreq2 = 18.125
 B 87.000 .. 92.000 T 73.600 TT 73.600 M:   2001.8
 new alloc for instr 1:
-instr 1:  ifreq = 835.200
+instr 1:  ifreq = 835.200  ifreq2 = 18.125
 B 92.000 .. 98.000 T 78.400 TT 78.400 M:   2035.3
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B 98.000 ..109.000 T 87.200 TT 87.200 M:   2016.1
-instr 1:  ifreq = 652.500
+instr 1:  ifreq = 652.500  ifreq2 = 18.125
 B109.000 ..114.000 T 91.200 TT 91.200 M:   2000.1
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B114.000 ..119.500 T 95.600 TT 95.600 M:   2034.4
-instr 1:  ifreq = 522.000
+instr 1:  ifreq = 522.000  ifreq2 = 18.125
 B119.500 ..120.000 T 96.000 TT 96.000 M:   2023.6
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B120.000 ..131.000 T104.800 TT104.800 M:   3358.1
-instr 1:  ifreq = 696.000
+instr 1:  ifreq = 696.000  ifreq2 = 18.125
 B131.000 ..137.000 T109.600 TT109.600 M:   2000.0
-instr 1:  ifreq = 652.500
+instr 1:  ifreq = 652.500  ifreq2 = 18.125
 B137.000 ..143.000 T114.400 TT114.400 M:   2014.8
-instr 1:  ifreq = 783.000
+instr 1:  ifreq = 783.000  ifreq2 = 18.125
 B143.000 ..154.000 T123.200 TT123.200 M:   2015.8
-instr 1:  ifreq = 652.500
+instr 1:  ifreq = 652.500  ifreq2 = 18.125
 B154.000 ..160.000 T128.000 TT128.000 M:   2000.0
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B160.000 ..164.500 T131.600 TT131.600 M:   2014.4
-instr 1:  ifreq = 522.000
+instr 1:  ifreq = 522.000  ifreq2 = 18.125
 B164.500 ..165.000 T132.000 TT132.000 M:   2053.4
-instr 1:  ifreq = 580.000
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
 B165.000 ..174.000 T139.200 TT139.200 M:   3378.4
 B174.000 ..180.000 T144.000 TT144.000 M:      2.6
 B180.000 ..184.500 T147.600 TT147.600 M:      0.0
@@ -117,5 +117,5 @@ inactive allocs returned to freespace
 end of score.		   overall amps:   3378.4
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 2.531s, CPU: 2.531s
+Elapsed time at end of performance: real: 3.343s, CPU: 3.334s
 256 512 sample blks of shorts written to wftg2_01_stem02.wav (WAV)

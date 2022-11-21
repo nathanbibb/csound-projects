@@ -64,101 +64,201 @@ ftable 2:	128 points, scalemax 87.000
 -_______________________________________________________________
 B  0.000 ..  1.000 T  0.800 TT  0.800 M:      0.0
 new alloc for instr 1:
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B  1.000 ..  4.000 T  3.200 TT  3.200 M:   9999.6
 new alloc for instr 1:
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B  4.000 ..  8.000 T  6.400 TT  6.400 M:  10844.0
 new alloc for instr 1:
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B  8.000 .. 11.000 T  8.800 TT  8.800 M:  10290.9
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B 11.000 .. 15.000 T 12.000 TT 12.000 M:  10857.3
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B 15.000 .. 18.000 T 14.400 TT 14.400 M:  10298.3
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B 18.000 .. 22.000 T 17.600 TT 17.600 M:  10876.4
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B 22.000 .. 25.000 T 20.000 TT 20.000 M:  10290.9
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B 25.000 .. 29.000 T 23.200 TT 23.200 M:  10857.3
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B 29.000 .. 31.000 T 24.800 TT 24.800 M:  10298.3
 new alloc for instr 1:
+instr 1:  ifreq = 1305.000  ifreq2 = 18.125
 B 31.000 .. 32.000 T 25.600 TT 25.600 M:   4080.5
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 new alloc for instr 1:
+instr 1:  ifreq = 1160.000  ifreq2 = 18.125
 B 32.000 .. 34.000 T 27.200 TT 27.200 M:  13400.4
 new alloc for instr 1:
+instr 1:  ifreq = 1305.000  ifreq2 = 18.125
 B 34.000 .. 36.000 T 28.800 TT 28.800 M:   4745.2
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 new alloc for instr 1:
+instr 1:  ifreq = 894.857  ifreq2 = 18.125
 B 36.000 .. 39.000 T 31.200 TT 31.200 M:  12270.0
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B 39.000 .. 43.000 T 34.400 TT 34.400 M:  10811.2
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B 43.000 .. 45.000 T 36.000 TT 36.000 M:  10304.0
+instr 1:  ifreq = 1305.000  ifreq2 = 18.125
 B 45.000 .. 46.000 T 36.800 TT 36.800 M:   4080.9
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
+instr 1:  ifreq = 1160.000  ifreq2 = 18.125
 B 46.000 .. 48.000 T 38.400 TT 38.400 M:  13400.4
+instr 1:  ifreq = 1305.000  ifreq2 = 18.125
 B 48.000 .. 50.000 T 40.000 TT 40.000 M:   4745.2
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
+instr 1:  ifreq = 894.857  ifreq2 = 18.125
 B 50.000 .. 53.000 T 42.400 TT 42.400 M:  12270.0
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B 53.000 .. 57.000 T 45.600 TT 45.600 M:  10811.2
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B 57.000 .. 59.000 T 47.200 TT 47.200 M:  10304.0
+instr 1:  ifreq = 1305.000  ifreq2 = 18.125
 B 59.000 .. 60.000 T 48.000 TT 48.000 M:   4080.9
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
+instr 1:  ifreq = 1566.000  ifreq2 = 18.125
 B 60.000 .. 62.000 T 49.600 TT 49.600 M:  13633.7
+instr 1:  ifreq = 894.857  ifreq2 = 18.125
 B 62.000 .. 64.000 T 51.200 TT 51.200 M:   4527.4
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
+instr 1:  ifreq = 1160.000  ifreq2 = 18.125
 B 64.000 .. 67.000 T 53.600 TT 53.600 M:  12369.7
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B 67.000 .. 71.000 T 56.800 TT 56.800 M:  11003.1
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B 71.000 .. 73.000 T 58.400 TT 58.400 M:  10302.0
+instr 1:  ifreq = 1305.000  ifreq2 = 18.125
 B 73.000 .. 74.000 T 59.200 TT 59.200 M:   4079.6
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
+instr 1:  ifreq = 1160.000  ifreq2 = 18.125
 B 74.000 .. 76.000 T 60.800 TT 60.800 M:  13400.4
+instr 1:  ifreq = 1305.000  ifreq2 = 18.125
 B 76.000 .. 78.000 T 62.400 TT 62.400 M:   4745.2
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
+instr 1:  ifreq = 894.857  ifreq2 = 18.125
 B 78.000 .. 81.000 T 64.800 TT 64.800 M:  12270.0
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B 81.000 .. 85.000 T 68.000 TT 68.000 M:  10811.2
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B 85.000 .. 87.000 T 69.600 TT 69.600 M:  10304.0
+instr 1:  ifreq = 391.500  ifreq2 = 18.125
 B 87.000 .. 88.000 T 70.400 TT 70.400 M:   5123.6
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B 88.000 .. 92.000 T 73.600 TT 73.600 M:  11973.3
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
+instr 1:  ifreq = 447.429  ifreq2 = 18.125
 B 92.000 .. 95.000 T 76.000 TT 76.000 M:  11797.2
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B 95.000 .. 98.000 T 78.400 TT 78.400 M:  10955.7
+instr 1:  ifreq = 417.600  ifreq2 = 18.125
 B 98.000 .. 99.000 T 79.200 TT 79.200 M:   2957.9
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B 99.000 ..102.000 T 81.600 TT 81.600 M:  11038.0
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B102.000 ..103.000 T 82.400 TT 82.400 M:  10920.0
+instr 1:  ifreq = 290.000  ifreq2 = 18.125
 B103.000 ..106.000 T 84.800 TT 84.800 M:   6709.3
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B106.000 ..109.000 T 87.200 TT 87.200 M:  10435.4
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B109.000 ..112.000 T 89.600 TT 89.600 M:  10855.8
+instr 1:  ifreq = 391.500  ifreq2 = 18.125
 B112.000 ..113.000 T 90.400 TT 90.400 M:   3897.1
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B113.000 ..116.000 T 92.800 TT 92.800 M:  11513.8
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B116.000 ..117.000 T 93.600 TT 93.600 M:  10995.3
+instr 1:  ifreq = 447.429  ifreq2 = 18.125
 B117.000 ..120.000 T 96.000 TT 96.000 M:   6808.1
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B120.000 ..123.000 T 98.400 TT 98.400 M:  10432.4
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B123.000 ..124.000 T 99.200 TT 99.200 M:  10846.3
+instr 1:  ifreq = 417.600  ifreq2 = 18.125
 B124.000 ..127.000 T101.600 TT101.600 M:   6981.5
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B127.000 ..128.000 T102.400 TT102.400 M:  10346.0
+instr 1:  ifreq = 290.000  ifreq2 = 18.125
 B128.000 ..130.000 T104.000 TT104.000 M:   6625.7
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B130.000 ..134.000 T107.200 TT107.200 M:  11224.7
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B134.000 ..137.000 T109.600 TT109.600 M:  10302.9
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B137.000 ..140.000 T112.000 TT112.000 M:  10857.2
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B140.000 ..144.000 T115.200 TT115.200 M:  10776.4
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B144.000 ..147.000 T117.600 TT117.600 M:  10385.0
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B147.000 ..151.000 T120.800 TT120.800 M:  10868.2
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
+instr 1:  ifreq = 391.500  ifreq2 = 18.125
 B151.000 ..154.000 T123.200 TT123.200 M:  11730.1
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B154.000 ..156.000 T124.800 TT124.800 M:  10843.0
+instr 1:  ifreq = 447.429  ifreq2 = 18.125
 B156.000 ..158.000 T126.400 TT126.400 M:   4188.0
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B158.000 ..161.000 T128.800 TT128.800 M:  10641.5
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B161.000 ..163.000 T130.400 TT130.400 M:  10855.9
+instr 1:  ifreq = 417.600  ifreq2 = 18.125
 B163.000 ..165.000 T132.000 TT132.000 M:   3991.6
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B165.000 ..167.000 T133.600 TT133.600 M:  10640.6
+instr 1:  ifreq = 290.000  ifreq2 = 18.125
 B167.000 ..168.000 T134.400 TT134.400 M:   4081.9
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B168.000 ..172.000 T137.600 TT137.600 M:  11247.2
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B172.000 ..175.000 T140.000 TT140.000 M:  10415.9
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B175.000 ..176.000 T140.800 TT140.800 M:  10840.3
+instr 1:  ifreq = 223.714  ifreq2 = 18.125
 B176.000 ..179.000 T143.200 TT143.200 M:   8511.7
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B179.000 ..181.000 T144.800 TT144.800 M:  10597.2
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B181.000 ..182.000 T145.600 TT145.600 M:   5911.0
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B182.000 ..186.000 T148.800 TT148.800 M:  12470.0
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B186.000 ..188.000 T150.400 TT150.400 M:  10447.6
+instr 1:  ifreq = 145.000  ifreq2 = 18.125
 B188.000 ..189.000 T151.200 TT151.200 M:   5689.5
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B189.000 ..192.000 T153.600 TT153.600 M:  11960.8
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B192.000 ..193.000 T154.400 TT154.400 M:   4997.2
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B193.000 ..196.000 T156.800 TT156.800 M:   8588.8
+instr 1:  ifreq = 326.250  ifreq2 = 18.125
 B196.000 ..200.000 T160.000 TT160.000 M:   5726.2
+instr 1:  ifreq = 174.000  ifreq2 = 18.125
 B200.000 ..203.000 T162.400 TT162.400 M:   5198.5
+instr 1:  ifreq = 391.500  ifreq2 = 18.125
 B203.000 ..207.000 T165.600 TT165.600 M:   5439.2
+instr 1:  ifreq = 208.800  ifreq2 = 18.125
 B207.000 ..217.000 T173.600 TT173.600 M:   5217.6
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B217.000 ..221.000 T176.800 TT176.800 M:   9999.6
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B221.000 ..224.000 T179.200 TT179.200 M:  10385.2
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B224.000 ..228.000 T182.400 TT182.400 M:  10868.2
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B228.000 ..231.000 T184.800 TT184.800 M:  10387.8
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B231.000 ..235.000 T188.000 TT188.000 M:  10890.1
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B235.000 ..238.000 T190.400 TT190.400 M:  10385.0
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B238.000 ..242.000 T193.600 TT193.600 M:  10868.2
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
 B242.000 ..245.000 T196.000 TT196.000 M:  10387.8
 B245.000 ..248.000 T198.400 TT198.400 M:    963.3
 B248.000 ..252.000 T201.600 TT201.600 M:     82.3
@@ -167,5 +267,5 @@ inactive allocs returned to freespace
 end of score.		   overall amps:  13633.7
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 6.208s, CPU: 6.189s
+Elapsed time at end of performance: real: 5.035s, CPU: 5.025s
 256 512 sample blks of shorts written to wftg2_00.wav (WAV)

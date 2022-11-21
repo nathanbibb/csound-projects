@@ -1,8 +1,8 @@
 orchname:  ../../wftg2.orc
-Elapsed time at end of orchestra compile: real: 0.003s, CPU: 0.003s
+Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
 sorting score ...
 	... done
-Elapsed time at end of score sort: real: 0.003s, CPU: 0.003s
+Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
 --Csound version 6.17 (double samples) 2022-04-08
 [commit: none]
 libsndfile-1.0.31
@@ -50,12 +50,12 @@ ftable 2:	128 points, scalemax 87.000
 -_______________________________________________________________
 B  0.000 ..145.000 T116.000 TT116.000 M:      0.0
 new alloc for instr 2:
-instr 2:  ifreq = 348.000
+instr 2:  ifreq = 348.000  ifreq2 = 18.125
 B145.000 ..165.000 T132.000 TT132.000 M:   1000.0
 Score finished in csoundPerform().
 inactive allocs returned to freespace
 end of score.		   overall amps:   1000.0
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 1.129s, CPU: 1.128s
+Elapsed time at end of performance: real: 0.887s, CPU: 0.887s
 256 512 sample blks of shorts written to wftg2_01_stem10.wav (WAV)

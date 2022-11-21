@@ -19,13 +19,6 @@ f1  0       65536   10      1
 
 ; F2: Scale 1: 1/1 - 9/8 - 6/5 - 9/7 - 5/3 - 15/8
 ;f      time    size    GEN     grades  interv  freq    key
-f2      0       128     -2      6       2       87      13        \
-;prime  M2      m3      M3~     M6      M7      8va
-;1/1    9/8     6/5     9/7     5/3     15/8    2/1
-1.000   1.125   1.200   1.286   1.667   1.875   2.000
-
-; F2: Scale 1: 1/1 - 9/8 - 6/5 - 9/7 - 5/3 - 15/8
-;f      time    size    GEN     grades  interv  freq    key
 f2      0       128     -2      6       2       87      13      \
 ;prime          M2              m3              M3~
 ;1/1            9/8             6/5             9/7

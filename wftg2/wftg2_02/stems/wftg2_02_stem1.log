@@ -41,7 +41,7 @@ sread: illegal space following ^, zero substituted
   section 1:  at position 11
 WARNING: Internal error in print_input_backtrace()
 	... done
-Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
+Elapsed time at end of score sort: real: 0.003s, CPU: 0.003s
 --Csound version 6.17 (double samples) 2022-04-08
 [commit: none]
 libsndfile-1.0.31
@@ -89,141 +89,141 @@ ftable 2:	128 points, scalemax 261.630
 ._______________________________________________________________
 B  0.000 ..  1.000 T  0.667 TT  0.667 M:      0.0
 new alloc for instr 1:
-instr 1:  ifreq = 130.815
+instr 1:  ifreq = 130.815  ifreq2 = 7.665
 B  1.000 ..  4.000 T  2.667 TT  2.667 M:   9999.3
 new alloc for instr 1:
-instr 1:  ifreq = 245.278
+instr 1:  ifreq = 245.278  ifreq2 = 7.665
 B  4.000 ..  4.250 T  2.833 TT  2.833 M:  11356.9
 new alloc for instr 1:
-instr 1:  ifreq = 732.564
+instr 1:  ifreq = 732.564  ifreq2 = 7.665
 B  4.250 ..  7.500 T  5.000 TT  5.000 M:  14172.1
 new alloc for instr 1:
-instr 1:  ifreq = 697.680
+instr 1:  ifreq = 697.680  ifreq2 = 7.665
 B  7.500 .. 12.500 T  8.333 TT  8.333 M:   6479.8
 new alloc for instr 1:
-instr 1:  ifreq = 130.815
+instr 1:  ifreq = 130.815  ifreq2 = 7.665
 B 12.500 .. 15.500 T 10.333 TT 10.333 M:  10155.3
 new alloc for instr 1:
-instr 1:  ifreq = 245.278
+instr 1:  ifreq = 245.278  ifreq2 = 7.665
 B 15.500 .. 15.750 T 10.500 TT 10.500 M:  11350.5
 new alloc for instr 1:
-instr 1:  ifreq = 654.075
+instr 1:  ifreq = 654.075  ifreq2 = 7.665
 B 15.750 .. 19.250 T 12.833 TT 12.833 M:  14645.5
 new alloc for instr 1:
-instr 1:  ifreq = 697.680
+instr 1:  ifreq = 697.680  ifreq2 = 7.665
 B 19.250 .. 25.250 T 16.833 TT 16.833 M:   6292.7
-instr 1:  ifreq = 130.815
+instr 1:  ifreq = 130.815  ifreq2 = 7.665
 B 25.250 .. 28.250 T 18.833 TT 18.833 M:  10071.9
-instr 1:  ifreq = 245.278
+instr 1:  ifreq = 245.278  ifreq2 = 7.665
 B 28.250 .. 28.500 T 19.000 TT 19.000 M:  11348.6
-instr 1:  ifreq = 732.564
+instr 1:  ifreq = 732.564  ifreq2 = 7.665
 B 28.500 .. 31.750 T 21.167 TT 21.167 M:  14178.6
-instr 1:  ifreq = 697.680
+instr 1:  ifreq = 697.680  ifreq2 = 7.665
 B 31.750 .. 36.750 T 24.500 TT 24.500 M:   6481.2
-instr 1:  ifreq = 130.815
+instr 1:  ifreq = 130.815  ifreq2 = 7.665
 B 36.750 .. 39.750 T 26.500 TT 26.500 M:  10155.3
-instr 1:  ifreq = 245.278
+instr 1:  ifreq = 245.278  ifreq2 = 7.665
 B 39.750 .. 40.000 T 26.667 TT 26.667 M:  11350.5
-instr 1:  ifreq = 697.680
+instr 1:  ifreq = 697.680  ifreq2 = 7.665
 B 40.000 .. 43.500 T 29.000 TT 29.000 M:  14711.6
-instr 1:  ifreq = 732.564
+instr 1:  ifreq = 732.564  ifreq2 = 7.665
 B 43.500 .. 50.500 T 33.667 TT 33.667 M:   6233.6
-instr 1:  ifreq = 277.020
+instr 1:  ifreq = 277.020  ifreq2 = 7.665
 B 50.500 .. 54.000 T 36.000 TT 36.000 M:  10050.5
-instr 1:  ifreq = 261.630
-instr 1:  ifreq = 490.556
+instr 1:  ifreq = 261.630  ifreq2 = 7.665
+instr 1:  ifreq = 490.556  ifreq2 = 7.665
 B 54.000 .. 58.000 T 38.667 TT 38.667 M:  18424.2
-instr 1:  ifreq = 294.334
+instr 1:  ifreq = 294.334  ifreq2 = 7.665
 B 58.000 .. 61.500 T 41.000 TT 41.000 M:  11144.4
-instr 1:  ifreq = 261.630
-instr 1:  ifreq = 554.040
+instr 1:  ifreq = 261.630  ifreq2 = 7.665
+instr 1:  ifreq = 554.040  ifreq2 = 7.665
 B 61.500 .. 68.500 T 45.667 TT 45.667 M:  15775.4
-instr 1:  ifreq = 261.630
+instr 1:  ifreq = 261.630  ifreq2 = 7.665
 B 68.500 .. 72.000 T 48.000 TT 48.000 M:  10128.1
-instr 1:  ifreq = 277.020
-instr 1:  ifreq = 490.556
+instr 1:  ifreq = 277.020  ifreq2 = 7.665
+instr 1:  ifreq = 490.556  ifreq2 = 7.665
 B 72.000 .. 76.000 T 50.667 TT 50.667 M:  18403.9
-instr 1:  ifreq = 294.334
+instr 1:  ifreq = 294.334  ifreq2 = 7.665
 B 76.000 .. 79.500 T 53.000 TT 53.000 M:  11239.5
-instr 1:  ifreq = 277.020
-instr 1:  ifreq = 554.040
+instr 1:  ifreq = 277.020  ifreq2 = 7.665
+instr 1:  ifreq = 554.040  ifreq2 = 7.665
 B 79.500 .. 86.500 T 57.667 TT 57.667 M:  13898.4
-instr 1:  ifreq = 277.020
+instr 1:  ifreq = 277.020  ifreq2 = 7.665
 B 86.500 .. 90.500 T 60.333 TT 60.333 M:  10022.9
-instr 1:  ifreq = 261.630
-instr 1:  ifreq = 490.556
+instr 1:  ifreq = 261.630  ifreq2 = 7.665
+instr 1:  ifreq = 490.556  ifreq2 = 7.665
 B 90.500 .. 94.000 T 62.667 TT 62.667 M:  18068.6
-instr 1:  ifreq = 294.334
+instr 1:  ifreq = 294.334  ifreq2 = 7.665
 B 94.000 .. 98.000 T 65.333 TT 65.333 M:  11394.9
-instr 1:  ifreq = 245.278
-instr 1:  ifreq = 554.040
+instr 1:  ifreq = 245.278  ifreq2 = 7.665
+instr 1:  ifreq = 554.040  ifreq2 = 7.665
 B 98.000 ..105.000 T 70.000 TT 70.000 M:  15486.0
-instr 1:  ifreq = 261.630
+instr 1:  ifreq = 261.630  ifreq2 = 7.665
 B105.000 ..109.000 T 72.667 TT 72.667 M:  10140.4
-instr 1:  ifreq = 277.020
-instr 1:  ifreq = 490.556
+instr 1:  ifreq = 277.020  ifreq2 = 7.665
+instr 1:  ifreq = 490.556  ifreq2 = 7.665
 B109.000 ..112.500 T 75.000 TT 75.000 M:  18002.8
-instr 1:  ifreq = 294.334
+instr 1:  ifreq = 294.334  ifreq2 = 7.665
 B112.500 ..116.500 T 77.667 TT 77.667 M:  11424.4
-instr 1:  ifreq = 277.020
-instr 1:  ifreq = 554.040
+instr 1:  ifreq = 277.020  ifreq2 = 7.665
+instr 1:  ifreq = 554.040  ifreq2 = 7.665
 B116.500 ..124.500 T 83.000 TT 83.000 M:  13510.4
-instr 1:  ifreq = 277.020
+instr 1:  ifreq = 277.020  ifreq2 = 7.665
 B124.500 ..129.000 T 86.000 TT 86.000 M:   9969.9
-instr 1:  ifreq = 130.815
-instr 1:  ifreq = 490.556
+instr 1:  ifreq = 130.815  ifreq2 = 7.665
+instr 1:  ifreq = 490.556  ifreq2 = 7.665
 B129.000 ..132.500 T 88.333 TT 88.333 M:  17393.2
-instr 1:  ifreq = 138.510
+instr 1:  ifreq = 138.510  ifreq2 = 7.665
 B132.500 ..133.000 T 88.667 TT 88.667 M:  11629.1
-instr 1:  ifreq = 294.334
+instr 1:  ifreq = 294.334  ifreq2 = 7.665
 B133.000 ..137.500 T 91.667 TT 91.667 M:  17574.9
-instr 1:  ifreq = 147.167
-instr 1:  ifreq = 554.040
+instr 1:  ifreq = 147.167  ifreq2 = 7.665
+instr 1:  ifreq = 554.040  ifreq2 = 7.665
 new alloc for instr 5:
-instr 5:  ifreq = 130.815
+instr 5:  ifreq = 130.815  ifreq2 = 7.665
 B137.500 ..143.500 T 95.667 TT 95.667 M:  14885.8
-instr 1:  ifreq = 261.630
+instr 1:  ifreq = 261.630  ifreq2 = 7.665
 B143.500 ..148.000 T 98.667 TT 98.667 M:  10250.2
-instr 1:  ifreq = 138.510
+instr 1:  ifreq = 138.510  ifreq2 = 7.665
 new alloc for instr 1:
-instr 1:  ifreq = 490.556
+instr 1:  ifreq = 490.556  ifreq2 = 7.665
 B148.000 ..152.000 T101.333 TT101.333 M:  18449.9
-instr 1:  ifreq = 294.334
+instr 1:  ifreq = 294.334  ifreq2 = 7.665
 B152.000 ..156.500 T104.333 TT104.333 M:  11127.9
-instr 1:  ifreq = 138.510
-instr 1:  ifreq = 554.040
+instr 1:  ifreq = 138.510  ifreq2 = 7.665
+instr 1:  ifreq = 554.040  ifreq2 = 7.665
 B156.500 ..159.500 T106.333 TT106.333 M:  14829.7
-instr 1:  ifreq = 130.815
+instr 1:  ifreq = 130.815  ifreq2 = 7.665
 B159.500 ..162.500 T108.333 TT108.333 M:  11280.2
-instr 1:  ifreq = 245.278
+instr 1:  ifreq = 245.278  ifreq2 = 7.665
 B162.500 ..162.750 T108.500 TT108.500 M:  11351.2
-instr 1:  ifreq = 732.564
+instr 1:  ifreq = 732.564  ifreq2 = 7.665
 B162.750 ..166.000 T110.667 TT110.667 M:  14306.1
-instr 1:  ifreq = 697.680
+instr 1:  ifreq = 697.680  ifreq2 = 7.665
 B166.000 ..171.000 T114.000 TT114.000 M:   6462.0
-instr 1:  ifreq = 130.815
+instr 1:  ifreq = 130.815  ifreq2 = 7.665
 B171.000 ..174.000 T116.000 TT116.000 M:  10155.8
-instr 1:  ifreq = 245.278
+instr 1:  ifreq = 245.278  ifreq2 = 7.665
 B174.000 ..174.250 T116.167 TT116.167 M:  11350.4
-instr 1:  ifreq = 654.075
+instr 1:  ifreq = 654.075  ifreq2 = 7.665
 B174.250 ..177.750 T118.500 TT118.500 M:  14645.5
-instr 1:  ifreq = 697.680
+instr 1:  ifreq = 697.680  ifreq2 = 7.665
 B177.750 ..183.750 T122.500 TT122.500 M:   6292.7
-instr 1:  ifreq = 130.815
+instr 1:  ifreq = 130.815  ifreq2 = 7.665
 B183.750 ..186.750 T124.500 TT124.500 M:  10071.9
-instr 1:  ifreq = 245.278
+instr 1:  ifreq = 245.278  ifreq2 = 7.665
 B186.750 ..187.000 T124.667 TT124.667 M:  11348.6
-instr 1:  ifreq = 732.564
+instr 1:  ifreq = 732.564  ifreq2 = 7.665
 B187.000 ..190.250 T126.833 TT126.833 M:  14178.6
-instr 1:  ifreq = 697.680
+instr 1:  ifreq = 697.680  ifreq2 = 7.665
 B190.250 ..195.250 T130.167 TT130.167 M:   6481.2
-instr 1:  ifreq = 130.815
+instr 1:  ifreq = 130.815  ifreq2 = 7.665
 B195.250 ..198.250 T132.167 TT132.167 M:  10155.3
-instr 1:  ifreq = 245.278
+instr 1:  ifreq = 245.278  ifreq2 = 7.665
 B198.250 ..198.500 T132.333 TT132.333 M:  11350.5
-instr 1:  ifreq = 697.680
+instr 1:  ifreq = 697.680  ifreq2 = 7.665
 B198.500 ..202.000 T134.667 TT134.667 M:  14711.6
-instr 1:  ifreq = 732.564
+instr 1:  ifreq = 732.564  ifreq2 = 7.665
 B202.000 ..203.750 T135.833 TT135.833 M:   6233.6
 B203.750 ..206.750 T137.833 TT137.833 M:   2054.4
 B206.750 ..207.000 T138.000 TT138.000 M:    259.4
@@ -237,5 +237,5 @@ inactive allocs returned to freespace
 end of score.		   overall amps:  18449.9
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 4.208s, CPU: 4.194s
+Elapsed time at end of performance: real: 5.270s, CPU: 5.263s
 256 512 sample blks of shorts written to wftg2_02_stem1.wav (WAV)
