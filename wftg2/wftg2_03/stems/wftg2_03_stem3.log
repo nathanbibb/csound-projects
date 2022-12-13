@@ -1,0 +1,121 @@
+orchname:  ../../wftg2.orc
+Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
+sorting score ...
+	... done
+Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
+--Csound version 6.17 (double samples) 2022-04-08
+[commit: none]
+libsndfile-1.0.31
+graphics suppressed, ascii substituted
+sr = 96000.0, kr = 96000.000, ksmps = 1
+0dBFS level = 32768.0, A4 tuning = 440.0
+orch now loaded
+audio buffered in 256 sample-frame blocks
+writing 512-byte blks of shorts to wftg2_03_stem3.wav (WAV)
+SECTION 1:
+ftable 1:
+ftable 1:	65536 points, scalemax 1.000
+               _--'''''--_
+            _-'           '-_
+          _-                 -_
+         .                     .
+       _'                       '_
+      -                           -
+    _'                             '_
+   .                                 .
+  -                                   -
+_'_____________________________________'________________________________________
+                                        '_                                     .
+                                          .                                   .
+                                           -                                 -
+                                            '_                             _'
+                                              .                           -
+                                               -_                       _'
+                                                 .                     -
+                                                  '.                 .'
+                                                    '._           _-'
+                                                       -.._____.-'
+ftable 2:
+ftable 2:	128 points, scalemax 260.000
+ _
+
+
+
+
+
+
+
+
+
+._______________________________________________________________
+ftable 3:
+ftable 3:	128 points, scalemax 455.000
+ _
+
+
+
+
+
+
+
+
+
+._______________________________________________________________
+ftable 4:
+ftable 4:	128 points, scalemax 260.000
+ _
+
+
+
+
+
+
+
+
+
+._______________________________________________________________
+B  0.000 ..  7.025 T  7.025 TT  7.025 M:      0.0
+new alloc for instr 3:
+instr 3:  ifreq = 135.417  ifreq2 = 7.617
+B  7.025 ..  8.180 T  8.180 TT  8.180 M:   8000.0
+instr 3:  ifreq = 243.750  ifreq2 = 7.617
+B  8.180 ..  9.335 T  9.335 TT  9.335 M:   8000.0
+instr 3:  ifreq = 208.000  ifreq2 = 7.617
+B  9.335 .. 24.025 T 24.025 TT 24.025 M:   8000.0
+instr 3:  ifreq = 135.417  ifreq2 = 7.617
+B 24.025 .. 25.180 T 25.180 TT 25.180 M:   8000.0
+instr 3:  ifreq = 243.750  ifreq2 = 7.617
+B 25.180 .. 26.335 T 26.335 TT 26.335 M:   8000.0
+instr 3:  ifreq = 208.000  ifreq2 = 7.617
+B 26.335 .. 41.025 T 41.025 TT 41.025 M:   8000.0
+instr 3:  ifreq = 135.417  ifreq2 = 7.617
+B 41.025 .. 42.180 T 42.180 TT 42.180 M:   8000.0
+instr 3:  ifreq = 243.750  ifreq2 = 7.617
+B 42.180 .. 43.335 T 43.335 TT 43.335 M:   8000.0
+instr 3:  ifreq = 208.000  ifreq2 = 7.617
+B 43.335 .. 58.025 T 58.025 TT 58.025 M:   8000.0
+instr 3:  ifreq = 135.417  ifreq2 = 7.617
+B 58.025 .. 59.180 T 59.180 TT 59.180 M:   8000.0
+instr 3:  ifreq = 243.750  ifreq2 = 7.617
+B 59.180 .. 60.335 T 60.335 TT 60.335 M:   8000.0
+instr 3:  ifreq = 208.000  ifreq2 = 7.617
+B 60.335 .. 75.025 T 75.025 TT 75.025 M:   8000.0
+instr 3:  ifreq = 135.417  ifreq2 = 7.617
+B 75.025 .. 76.180 T 76.180 TT 76.180 M:   8000.0
+instr 3:  ifreq = 243.750  ifreq2 = 7.617
+B 76.180 .. 77.335 T 77.335 TT 77.335 M:   8000.0
+instr 3:  ifreq = 208.000  ifreq2 = 7.617
+B 77.335 .. 92.025 T 92.025 TT 92.025 M:   8000.0
+instr 3:  ifreq = 135.417  ifreq2 = 7.617
+B 92.025 .. 93.180 T 93.180 TT 93.180 M:   8000.0
+instr 3:  ifreq = 243.750  ifreq2 = 7.617
+B 93.180 .. 94.335 T 94.335 TT 94.335 M:   8000.0
+instr 3:  ifreq = 208.000  ifreq2 = 7.617
+B 94.335 .. 95.485 T 95.485 TT 95.485 M:   8000.0
+Score finished in csoundPerform().
+inactive allocs returned to freespace
+end of score.		   overall amps:   8000.0
+	   overall samples out of range:        0
+0 errors in performance
+Elapsed time at end of performance: real: 0.591s, CPU: 0.589s
+256 512 sample blks of shorts written to wftg2_03_stem3.wav (WAV)
