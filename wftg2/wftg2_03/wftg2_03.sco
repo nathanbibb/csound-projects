@@ -107,7 +107,7 @@ i3      ^+34    27      78      4000    1       4       82
 ; Stem 5
 ;inst   start   dur     freq    amp     wavet   tunet   freq2
 ;p1     p2      p3      p4      p5      p6      p7      p8
-i3      95      120     47      7000    1       4       -1
+i3      95      120     47      4000    1       4       -1
 
 ; Stem 6
 ;inst   start   dur     freq    amp     wavet   tunet   freq2

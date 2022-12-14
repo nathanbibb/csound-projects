@@ -18,7 +18,7 @@ f1  0       65536   10      1
 
 ; F2: Scale 6: 8 tone scale of first 15 string harmonics
 ;f      time    size    GEN     grades  interv  freq    key
-f2      0       128     -2      12      2       261.63  60      \
+f2      0       128     -2      8       2       260     60      \
 ;prime          M2              M3              TT             
 ;1/1            9/8             5/4             11/8           
 1.000000000     1.125000000     1.250000000     1.375000000     \
