@@ -16,9 +16,9 @@ t 0 75
 ;f  time    size    GEN     h1
 f1  0       65536   10      1
 
-; F2: Scale 3: 12 tone equal temperament
+; F2: Scale 3: 12 tone equal temperament A4 = 440Hz = 65
 ;f      time    size    GEN     grades  interv  freq    key
-f2      0       128     -2      12      2       260     60      \
+f2      0       128     -2      12      2       440     65      \
 ;prime          m2              M2              m3              
 1.000000000     1.059463094     1.122462048     1.189207115     \
 ;M3             P4              A4              P5
