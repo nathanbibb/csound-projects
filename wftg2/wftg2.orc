@@ -23,9 +23,9 @@ nchnls  =       1
 ; p5 (amp): Amplitude, up to 10000
 ; p6 (wavet): Function table used for wave (typically 1)
 ; p7 (tunet): Function table used for Tuning.  If -1, p4 is assumed to be Hertz
-; p8 (freq2): If this table is > 0, tone will slide (using line opcode) from
-;             p4 to p8.  Both freq and freq2 must use either Tuning Table or
-;             Hertz value (based on value of p7)
+; p8 (freq2): If this parameter is > 0, tone will slide (using line opcode) from
+;             p4 to p8.  Both freq and freq2 must both use either Tuning Table or
+;             Hertz value (based on value of p7), not a mix of both
 ;=============================================================================
 
 
