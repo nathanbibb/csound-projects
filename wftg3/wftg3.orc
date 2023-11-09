@@ -21,8 +21,8 @@ nchnls  =       1
 instr 1
 
     ; Sine wave generator
-    ;var    opcode  amp     freq    ftable
-    a1      oscil   p4,     p5,     p6
+    ;var    opcode  amp     freq
+    a1      oscil   p4,     p5
     out     a1
 endin
 
