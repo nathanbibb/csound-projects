@@ -1,6 +1,6 @@
 let SessionLoad = 1
 if &cp | set nocp | endif
-let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
+let s:so_save = &g:so | let s:siso_save = &g:siso | setg so=0 siso=0 | setl so=-1 siso=-1
 let v:this_session=expand("<sfile>:p")
 silent only
 silent tabonly
@@ -12,20 +12,25 @@ set shortmess=aoO
 argglobal
 %argdel
 edit wftg2/wftg2_00.sco
+let s:save_splitbelow = &splitbelow
+let s:save_splitright = &splitright
 set splitbelow splitright
 wincmd _ | wincmd |
 vsplit
 1wincmd h
 wincmd w
-set nosplitbelow
-set nosplitright
+let &splitbelow = s:save_splitbelow
+let &splitright = s:save_splitright
 wincmd t
+let s:save_winminheight = &winminheight
+let s:save_winminwidth = &winminwidth
 set winminheight=0
 set winheight=1
 set winminwidth=0
 set winwidth=1
 wincmd =
 argglobal
+balt wftg2/wftg2_00.sco
 setlocal fdm=manual
 setlocal fde=0
 setlocal fmr={{{,}}}
@@ -35,15 +40,17 @@ setlocal fml=1
 setlocal fdn=20
 setlocal fen
 silent! normal! zE
-let s:l = 127 - ((63 * winheight(0) + 32) / 65)
+let &fdl = &fdl
+let s:l = 1 - ((0 * winheight(0) + 56) / 113)
 if s:l < 1 | let s:l = 1 | endif
-exe s:l
+keepjumps exe s:l
 normal! zt
-127
+keepjumps 1
 normal! 0
 wincmd w
 argglobal
 if bufexists("wftg2/wftg2_00.orc") | buffer wftg2/wftg2_00.orc | else | edit wftg2/wftg2_00.orc | endif
+balt wftg2/wftg2_00.sco
 setlocal fdm=manual
 setlocal fde=0
 setlocal fmr={{{,}}}
@@ -53,11 +60,12 @@ setlocal fml=1
 setlocal fdn=20
 setlocal fen
 silent! normal! zE
-let s:l = 1 - ((0 * winheight(0) + 32) / 65)
+let &fdl = &fdl
+let s:l = 1 - ((0 * winheight(0) + 56) / 113)
 if s:l < 1 | let s:l = 1 | endif
-exe s:l
+keepjumps exe s:l
 normal! zt
-1
+keepjumps 1
 normal! 0
 wincmd w
 wincmd =
@@ -69,12 +77,13 @@ if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
 endif
 unlet! s:wipebuf
 set winheight=1 winwidth=20 shortmess=filnxtToOS
-set winminheight=1 winminwidth=1
+let &winminheight = s:save_winminheight
+let &winminwidth = s:save_winminwidth
 let s:sx = expand("<sfile>:p:r")."x.vim"
 if filereadable(s:sx)
   exe "source " . fnameescape(s:sx)
 endif
-let &so = s:so_save | let &siso = s:siso_save
+let &g:so = s:so_save | let &g:siso = s:siso_save
 nohlsearch
 let g:this_session = v:this_session
 let g:this_obsession = v:this_session
