@@ -10,11 +10,12 @@ if expand('%') == '' && !&modified && line('$') <= 1 && getline(1) == ''
 endif
 let s:shortmess_save = &shortmess
 set shortmess+=aoO
-badd +1 wftg2.orc
+badd +83 wftg2.orc
+badd +0 wftg2_05/wftg2_05.sco
 argglobal
 %argdel
 $argadd wftg2.orc
-edit wftg2.orc
+edit wftg2_05/wftg2_05.sco
 let s:save_splitbelow = &splitbelow
 let s:save_splitright = &splitright
 set splitbelow splitright
@@ -28,6 +29,7 @@ set winheight=1
 set winminwidth=0
 set winwidth=1
 argglobal
+balt wftg2.orc
 setlocal fdm=syntax
 setlocal fde=0
 setlocal fmr={{{,}}}
@@ -36,13 +38,11 @@ setlocal fdl=0
 setlocal fml=1
 setlocal fdn=20
 setlocal fen
-76
-sil! normal! zo
-let s:l = 76 - ((6 * winheight(0) + 14) / 29)
+let s:l = 33 - ((5 * winheight(0) + 14) / 29)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 76
+keepjumps 33
 normal! 0
 tabnext 1
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
