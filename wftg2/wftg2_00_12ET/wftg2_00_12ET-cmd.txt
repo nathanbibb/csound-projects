@@ -1,0 +1,1 @@
+csound -W -o wftg2_00_12ET.wav -O wftg2_00_12ET.log ../wftg2.orc wftg2_00_12ET.sco

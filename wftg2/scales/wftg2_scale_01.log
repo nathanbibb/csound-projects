@@ -50,36 +50,66 @@ ftable 2:	128 points, scalemax 87.000
 -_______________________________________________________________
 B  0.000 ..  1.000 T  0.800 TT  0.800 M:      0.0
 new alloc for instr 1:
-WARNING: instr 1 uses 8 p-fields but is given 7
+instr 1:  ifreq = 87.000  ifreq2 = 18.125
 B  1.000 ..  2.000 T  1.600 TT  1.600 M:   9999.6
 new alloc for instr 1:
-WARNING: instr 1 uses 8 p-fields but is given 7
+instr 1:  ifreq = 97.875  ifreq2 = 18.125
 B  2.000 ..  3.000 T  2.400 TT  2.400 M:  14277.7
 new alloc for instr 1:
-WARNING: instr 1 uses 8 p-fields but is given 7
+instr 1:  ifreq = 104.400  ifreq2 = 18.125
 B  3.000 ..  4.000 T  3.200 TT  3.200 M:  14823.4
 new alloc for instr 1:
-WARNING: instr 1 uses 8 p-fields but is given 7
+instr 1:  ifreq = 111.857  ifreq2 = 18.125
 B  4.000 ..  5.000 T  4.000 TT  4.000 M:  14147.6
 new alloc for instr 1:
-WARNING: instr 1 uses 8 p-fields but is given 7
+instr 1:  ifreq = 145.000  ifreq2 = 18.125
 B  5.000 ..  6.000 T  4.800 TT  4.800 M:  15508.3
 new alloc for instr 1:
-WARNING: instr 1 uses 8 p-fields but is given 7
+instr 1:  ifreq = 163.125  ifreq2 = 18.125
 B  6.000 ..  7.000 T  5.600 TT  5.600 M:  16004.2
 new alloc for instr 1:
-WARNING: instr 1 uses 8 p-fields but is given 7
-B  7.000 .. 11.000 T  8.800 TT  8.800 M:  15850.5
-B 11.000 .. 12.000 T  9.600 TT  9.600 M:    641.7
-B 12.000 .. 13.000 T 10.400 TT 10.400 M:    304.0
-B 13.000 .. 14.000 T 11.200 TT 11.200 M:    124.1
-B 14.000 .. 15.000 T 12.000 TT 12.000 M:     50.0
-B 15.000 .. 16.000 T 12.800 TT 12.800 M:     17.5
-B 16.000 .. 17.000 T 13.600 TT 13.600 M:      4.4
+instr 1:  ifreq = 174.000  ifreq2 = 18.125
+B  7.000 ..  8.000 T  6.400 TT  6.400 M:  15850.5
+new alloc for instr 1:
+instr 1:  ifreq = 195.750  ifreq2 = 18.125
+B  8.000 ..  9.000 T  7.200 TT  7.200 M:  16717.7
+new alloc for instr 1:
+instr 1:  ifreq = 208.800  ifreq2 = 18.125
+B  9.000 .. 10.000 T  8.000 TT  8.000 M:  15549.4
+new alloc for instr 1:
+instr 1:  ifreq = 223.714  ifreq2 = 18.125
+B 10.000 .. 11.000 T  8.800 TT  8.800 M:  15486.8
+instr 1:  ifreq = 290.000  ifreq2 = 18.125
+B 11.000 .. 12.000 T  9.600 TT  9.600 M:  16416.4
+instr 1:  ifreq = 326.250  ifreq2 = 18.125
+B 12.000 .. 13.000 T 10.400 TT 10.400 M:  16650.7
+instr 1:  ifreq = 348.000  ifreq2 = 18.125
+B 13.000 .. 14.000 T 11.200 TT 11.200 M:  16004.4
+instr 1:  ifreq = 391.500  ifreq2 = 18.125
+B 14.000 .. 15.000 T 12.000 TT 12.000 M:  16973.2
+instr 1:  ifreq = 417.600  ifreq2 = 18.125
+B 15.000 .. 16.000 T 12.800 TT 12.800 M:  16185.4
+instr 1:  ifreq = 447.429  ifreq2 = 18.125
+B 16.000 .. 17.000 T 13.600 TT 13.600 M:  15344.1
+instr 1:  ifreq = 580.000  ifreq2 = 18.125
+B 17.000 .. 18.000 T 14.400 TT 14.400 M:  16196.0
+instr 1:  ifreq = 652.500  ifreq2 = 18.125
+B 18.000 .. 19.000 T 15.200 TT 15.200 M:  17354.8
+instr 1:  ifreq = 696.000  ifreq2 = 18.125
+B 19.000 .. 20.000 T 16.000 TT 16.000 M:  16568.6
+B 20.000 .. 21.000 T 16.800 TT 16.800 M:   8025.2
+B 21.000 .. 22.000 T 17.600 TT 17.600 M:   3295.1
+B 22.000 .. 23.000 T 18.400 TT 18.400 M:   1568.4
+B 23.000 .. 24.000 T 19.200 TT 19.200 M:    701.6
+B 24.000 .. 25.000 T 20.000 TT 20.000 M:    286.9
+B 25.000 .. 26.000 T 20.800 TT 20.800 M:    130.7
+B 26.000 .. 27.000 T 21.600 TT 21.600 M:     50.1
+B 27.000 .. 28.000 T 22.400 TT 22.400 M:     18.0
+B 28.000 .. 29.000 T 23.200 TT 23.200 M:      4.4
 Score finished in csoundPerform().
 inactive allocs returned to freespace
-end of score.		   overall amps:  16004.2
+end of score.		   overall amps:  17354.8
 	   overall samples out of range:        0
 0 errors in performance
-Elapsed time at end of performance: real: 0.389s, CPU: 0.389s
+Elapsed time at end of performance: real: 1.055s, CPU: 1.054s
 256 512 sample blks of shorts written to wftg2_scale_01.wav (WAV)

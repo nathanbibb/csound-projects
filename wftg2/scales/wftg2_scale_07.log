@@ -1,0 +1,115 @@
+orchname:  ../wftg2.orc
+Elapsed time at end of orchestra compile: real: 0.002s, CPU: 0.002s
+sorting score ...
+	... done
+Elapsed time at end of score sort: real: 0.002s, CPU: 0.002s
+--Csound version 6.17 (double samples) 2022-04-08
+[commit: none]
+libsndfile-1.0.31
+graphics suppressed, ascii substituted
+sr = 96000.0, kr = 96000.000, ksmps = 1
+0dBFS level = 32768.0, A4 tuning = 440.0
+orch now loaded
+audio buffered in 256 sample-frame blocks
+writing 512-byte blks of shorts to wftg2_scale_07.wav (WAV)
+SECTION 1:
+ftable 1:
+ftable 1:	65536 points, scalemax 1.000
+               _--'''''--_
+            _-'           '-_
+          _-                 -_
+         .                     .
+       _'                       '_
+      -                           -
+    _'                             '_
+   .                                 .
+  -                                   -
+_'_____________________________________'________________________________________
+                                        '_                                     .
+                                          .                                   .
+                                           -                                 -
+                                            '_                             _'
+                                              .                           -
+                                               -_                       _'
+                                                 .                     -
+                                                  '.                 .'
+                                                    '._           _-'
+                                                       -.._____.-'
+ftable 2:
+ftable 2:	128 points, scalemax 440.000
+ _
+
+
+
+
+
+
+
+
+
+________________________________________________________________
+B  0.000 ..  1.000 T  0.800 TT  0.800 M:      0.0
+new alloc for instr 1:
+instr 1:  ifreq = 69.296  ifreq2 = 15.434
+B  1.000 ..  2.000 T  1.600 TT  1.600 M:  10000.0
+new alloc for instr 1:
+instr 1:  ifreq = 92.499  ifreq2 = 15.434
+B  2.000 ..  3.000 T  2.400 TT  2.400 M:  14499.1
+new alloc for instr 1:
+instr 1:  ifreq = 103.826  ifreq2 = 15.434
+B  3.000 ..  4.000 T  3.200 TT  3.200 M:  15597.7
+new alloc for instr 1:
+instr 1:  ifreq = 110.000  ifreq2 = 15.434
+B  4.000 ..  5.000 T  4.000 TT  4.000 M:  15425.8
+new alloc for instr 1:
+instr 1:  ifreq = 123.471  ifreq2 = 15.434
+B  5.000 ..  6.000 T  4.800 TT  4.800 M:  15068.4
+new alloc for instr 1:
+instr 1:  ifreq = 130.813  ifreq2 = 15.434
+B  6.000 ..  7.000 T  5.600 TT  5.600 M:  14655.0
+new alloc for instr 1:
+instr 1:  ifreq = 138.591  ifreq2 = 15.434
+B  7.000 ..  8.000 T  6.400 TT  6.400 M:  14798.4
+new alloc for instr 1:
+instr 1:  ifreq = 184.997  ifreq2 = 15.434
+B  8.000 ..  9.000 T  7.200 TT  7.200 M:  16628.3
+new alloc for instr 1:
+instr 1:  ifreq = 207.652  ifreq2 = 15.434
+B  9.000 .. 10.000 T  8.000 TT  8.000 M:  16685.7
+new alloc for instr 1:
+instr 1:  ifreq = 220.000  ifreq2 = 15.434
+B 10.000 .. 11.000 T  8.800 TT  8.800 M:  15878.9
+instr 1:  ifreq = 246.942  ifreq2 = 15.434
+B 11.000 .. 12.000 T  9.600 TT  9.600 M:  16408.7
+instr 1:  ifreq = 261.626  ifreq2 = 15.434
+B 12.000 .. 13.000 T 10.400 TT 10.400 M:  15573.6
+instr 1:  ifreq = 277.183  ifreq2 = 15.434
+B 13.000 .. 14.000 T 11.200 TT 11.200 M:  14365.0
+instr 1:  ifreq = 369.994  ifreq2 = 15.434
+B 14.000 .. 15.000 T 12.000 TT 12.000 M:  16510.1
+instr 1:  ifreq = 415.305  ifreq2 = 15.434
+B 15.000 .. 16.000 T 12.800 TT 12.800 M:  16229.4
+instr 1:  ifreq = 440.000  ifreq2 = 15.434
+B 16.000 .. 17.000 T 13.600 TT 13.600 M:  16621.4
+instr 1:  ifreq = 493.883  ifreq2 = 15.434
+B 17.000 .. 18.000 T 14.400 TT 14.400 M:  16736.0
+instr 1:  ifreq = 523.251  ifreq2 = 15.434
+B 18.000 .. 19.000 T 15.200 TT 15.200 M:  17437.2
+instr 1:  ifreq = 554.365  ifreq2 = 15.434
+B 19.000 .. 20.000 T 16.000 TT 16.000 M:  16848.4
+B 20.000 .. 21.000 T 16.800 TT 16.800 M:   6473.1
+B 21.000 .. 22.000 T 17.600 TT 17.600 M:   3507.4
+B 22.000 .. 23.000 T 18.400 TT 18.400 M:   1491.5
+B 23.000 .. 24.000 T 19.200 TT 19.200 M:    623.9
+B 24.000 .. 25.000 T 20.000 TT 20.000 M:    320.8
+B 25.000 .. 26.000 T 20.800 TT 20.800 M:    113.9
+B 26.000 .. 27.000 T 21.600 TT 21.600 M:     51.6
+B 27.000 .. 28.000 T 22.400 TT 22.400 M:     18.0
+B 28.000 .. 29.000 T 23.200 TT 23.200 M:      4.4
+Score finished in csoundPerform().
+inactive allocs returned to freespace
+end of score.		   overall amps:  17437.2
+	   overall samples out of range:        0
+0 errors in performance
+Elapsed time at end of performance: real: 0.984s, CPU: 0.983s
+256 512 sample blks of shorts written to wftg2_scale_07.wav (WAV)
