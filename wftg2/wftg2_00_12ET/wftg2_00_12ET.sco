@@ -17,15 +17,14 @@ t 0 75
 ;f  time    size    GEN     h1
 f1  0       65536   10      1
 
-; F2: Scale 7: 1/1 - 9/8 - 6/5 - 9/7 - 5/3 - 15/8
+; F2: Scale 7: 12 tone equal temperament A4 = 440Hz = 28, 6 notes to scale
+; (for part 00)
 ;f      time    size    GEN     grades  interv  freq    key
-f2      0       128     -2      6       2       87      13      \
-;prime          M2              m3              M3~
-;1/1            9/8             6/5             9/7
-1.000000000     1.125000000     1.200000000     1.285714286     \
-;M6             M7              8va
-;5/3            15/8            2/1
-1.666666667     1.875000000     2.000000000
+f2      0       128     -2      6       2       440     28      \
+;prime          M2              m3              M3               
+1.000000000     1.122462048     1.189207115     1.259921049     \
+;M6              M7              8va
+1.68179283      1.887748625     2.000
 
 ; Left Hand
 ;inst   start   dur     freq    amp     wavet   tunet   freq2
