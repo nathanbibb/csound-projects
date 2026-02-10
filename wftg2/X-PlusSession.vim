@@ -12,33 +12,15 @@ let s:shortmess_save = &shortmess
 set shortmess+=aoO
 badd +83 wftg2.orc
 badd +15 wftg2_05/wftg2_05.sco
-badd +1 wftg2_00/wftg2_00.sco
+badd +46 wftg2_00/wftg2_00.sco
 badd +1 wftg2_00_12ET/wftg2_00_12ET.sco
 argglobal
 %argdel
 $argadd wftg2.orc
 set stal=2
 tabnew +setlocal\ bufhidden=wipe
-tabnew +setlocal\ bufhidden=wipe
 tabrewind
 edit wftg2_00_12ET/wftg2_00_12ET.sco
-argglobal
-setlocal fdm=syntax
-setlocal fde=0
-setlocal fmr={{{,}}}
-setlocal fdi=#
-setlocal fdl=0
-setlocal fml=1
-setlocal fdn=20
-setlocal fen
-let s:l = 46 - ((20 * winheight(0) + 13) / 26)
-if s:l < 1 | let s:l = 1 | endif
-keepjumps exe s:l
-normal! zt
-keepjumps 46
-normal! 0
-tabnext
-edit wftg2_00/wftg2_00.sco
 let s:save_splitbelow = &splitbelow
 let s:save_splitright = &splitright
 set splitbelow splitright
@@ -60,11 +42,11 @@ setlocal fdl=0
 setlocal fml=1
 setlocal fdn=20
 setlocal fen
-let s:l = 30 - ((5 * winheight(0) + 13) / 26)
+let s:l = 39 - ((20 * winheight(0) + 13) / 26)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 30
+keepjumps 39
 normal! 0
 tabnext
 edit wftg2_00/wftg2_00.sco
@@ -77,11 +59,11 @@ setlocal fdl=0
 setlocal fml=1
 setlocal fdn=20
 setlocal fen
-let s:l = 46 - ((20 * winheight(0) + 13) / 26)
+let s:l = 30 - ((5 * winheight(0) + 14) / 28)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 46
+keepjumps 30
 normal! 0
 tabnext 1
 set stal=1
