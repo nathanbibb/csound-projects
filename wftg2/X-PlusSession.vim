@@ -11,11 +11,34 @@ endif
 let s:shortmess_save = &shortmess
 set shortmess+=aoO
 badd +83 wftg2.orc
-badd +0 wftg2_05/wftg2_05.sco
+badd +15 wftg2_05/wftg2_05.sco
+badd +1 wftg2_00/wftg2_00.sco
+badd +1 wftg2_00_12ET/wftg2_00_12ET.sco
 argglobal
 %argdel
 $argadd wftg2.orc
-edit wftg2_05/wftg2_05.sco
+set stal=2
+tabnew +setlocal\ bufhidden=wipe
+tabnew +setlocal\ bufhidden=wipe
+tabrewind
+edit wftg2_00_12ET/wftg2_00_12ET.sco
+argglobal
+setlocal fdm=syntax
+setlocal fde=0
+setlocal fmr={{{,}}}
+setlocal fdi=#
+setlocal fdl=0
+setlocal fml=1
+setlocal fdn=20
+setlocal fen
+let s:l = 46 - ((20 * winheight(0) + 13) / 26)
+if s:l < 1 | let s:l = 1 | endif
+keepjumps exe s:l
+normal! zt
+keepjumps 46
+normal! 0
+tabnext
+edit wftg2_00/wftg2_00.sco
 let s:save_splitbelow = &splitbelow
 let s:save_splitright = &splitright
 set splitbelow splitright
@@ -29,7 +52,6 @@ set winheight=1
 set winminwidth=0
 set winwidth=1
 argglobal
-balt wftg2.orc
 setlocal fdm=syntax
 setlocal fde=0
 setlocal fmr={{{,}}}
@@ -38,13 +60,31 @@ setlocal fdl=0
 setlocal fml=1
 setlocal fdn=20
 setlocal fen
-let s:l = 33 - ((5 * winheight(0) + 14) / 29)
+let s:l = 30 - ((5 * winheight(0) + 13) / 26)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 33
+keepjumps 30
+normal! 0
+tabnext
+edit wftg2_00/wftg2_00.sco
+argglobal
+setlocal fdm=syntax
+setlocal fde=0
+setlocal fmr={{{,}}}
+setlocal fdi=#
+setlocal fdl=0
+setlocal fml=1
+setlocal fdn=20
+setlocal fen
+let s:l = 46 - ((20 * winheight(0) + 13) / 26)
+if s:l < 1 | let s:l = 1 | endif
+keepjumps exe s:l
+normal! zt
+keepjumps 46
 normal! 0
 tabnext 1
+set stal=1
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif
